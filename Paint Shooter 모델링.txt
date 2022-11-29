@@ -1,0 +1,11 @@
+캐릭터
+- 자동연사 On -> 자동 연사 실행
+- 자동연사 Off -> 일반 발사 실행
+- 무기 장착
+- 무기 교환
+
+무기
+- 일반 발사 - OnFireGun
+- 자동 연사 - OnFireAutomaticGun
+	   - OnStopAutomaticGun
+
