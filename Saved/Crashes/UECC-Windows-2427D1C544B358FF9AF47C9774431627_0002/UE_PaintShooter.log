@@ -1,0 +1,1497 @@
+﻿Log file open, 11/29/22 16:28:11
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=4600)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: UE_PaintShooter
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:\Users\STL\Documents\WorkSpace\UE_PaintShooter\UE_PaintShooter.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) [10.0.19044.2251] "
+LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 7 3700X 8-Core Processor"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="d4d1c4194f408cd5b607798e1b84abde"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.235755
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-2427D1C544B358FF9AF47C9774431627
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading VulkanPC ini files took 0.03 seconds
+LogConfig: Display: Loading IOS ini files took 0.03 seconds
+LogConfig: Display: Loading Android ini files took 0.03 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.03 seconds
+LogConfig: Display: Loading Mac ini files took 0.03 seconds
+LogConfig: Display: Loading TVOS ini files took 0.04 seconds
+LogConfig: Display: Loading Unix ini files took 0.04 seconds
+LogConfig: Display: Loading Windows ini files took 0.04 seconds
+LogConfig: Display: Loading Linux ini files took 0.05 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.05 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H2) [10.0.19044.2251] (), CPU: AMD Ryzen 7 3700X 8-Core Processor             , GPU: NVIDIA GeForce GTX 1660
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.11.29-07.28.11:624][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.11.29-07.28.11:624][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.11.29-07.28.11:624][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.11.29-07.28.11:624][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.11.29-07.28.11:624][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.11.29-07.28.11:624][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.11.29-07.28.11:625][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.11.29-07.28.11:625][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.11.29-07.28.11:625][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.11.29-07.28.11:625][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.11.29-07.28.11:625][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.11.29-07.28.11:625][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.11.29-07.28.11:625][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.11.29-07.28.11:625][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.11.29-07.28.11:625][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.11.29-07.28.11:625][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.11.29-07.28.11:625][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.11.29-07.28.11:625][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.11.29-07.28.11:625][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.11.29-07.28.11:625][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.11.29-07.28.11:625][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.11.29-07.28.11:625][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.11.29-07.28.11:625][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.11.29-07.28.11:625][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.11.29-07.28.11:625][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.11.29-07.28.11:625][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.11.29-07.28.11:625][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.11.29-07.28.11:625][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.11.29-07.28.11:625][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.11.29-07.28.11:625][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.11.29-07.28.11:625][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.11.29-07.28.11:625][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.11.29-07.28.11:625][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.11.29-07.28.11:625][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.11.29-07.28.11:625][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.11.29-07.28.11:625][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.11.29-07.28.11:625][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.11.29-07.28.11:625][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.11.29-07.28.11:625][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.11.29-07.28.11:625][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.11.29-07.28.11:625][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.11.29-07.28.11:625][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.11.29-07.28.11:625][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.11.29-07.28.11:625][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.11.29-07.28.11:625][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.11.29-07.28.11:625][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.11.29-07.28.11:625][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.11.29-07.28.11:625][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.11.29-07.28.11:625][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.11.29-07.28.11:625][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.11.29-07.28.11:625][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.11.29-07.28.11:625][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.11.29-07.28.11:625][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.11.29-07.28.11:625][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.11.29-07.28.11:625][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.11.29-07.28.11:625][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.11.29-07.28.11:625][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.11.29-07.28.11:626][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.11.29-07.28.11:626][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.11.29-07.28.11:626][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.11.29-07.28.11:626][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.11.29-07.28.11:626][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.11.29-07.28.11:627][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.11.29-07.28.11:627][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.11.29-07.28.11:627][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.11.29-07.28.11:627][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.11.29-07.28.11:627][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.11.29-07.28.11:627][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.11.29-07.28.11:642][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.11.29-07.28.11:643][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.11.29-07.28.11:643][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_1
+[2022.11.29-07.28.11:643][  0]LogD3D11RHI: D3D11 adapters:
+[2022.11.29-07.28.11:643][  0]LogD3D11RHI: Testing D3D11 Adapter 0:
+[2022.11.29-07.28.11:643][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1660
+[2022.11.29-07.28.11:643][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.11.29-07.28.11:643][  0]LogD3D11RHI:     DeviceId    : 2184
+[2022.11.29-07.28.11:643][  0]LogD3D11RHI:     SubSysId    : 37921462
+[2022.11.29-07.28.11:643][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.11.29-07.28.11:643][  0]LogD3D11RHI:     DedicatedVideoMemory : 6282018816 bytes
+[2022.11.29-07.28.11:643][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.11.29-07.28.11:643][  0]LogD3D11RHI:     SharedSystemMemory : 8555780096 bytes
+[2022.11.29-07.28.11:643][  0]LogD3D11RHI:     AdapterLuid : 0 43501
+[2022.11.29-07.28.11:732][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1660' (Feature Level 11_1)
+[2022.11.29-07.28.11:732][  0]LogD3D11RHI:       5991/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.11.29-07.28.11:732][  0]LogD3D11RHI: Testing D3D11 Adapter 1:
+[2022.11.29-07.28.11:732][  0]LogD3D11RHI:     Description : Microsoft Basic Render Driver
+[2022.11.29-07.28.11:732][  0]LogD3D11RHI:     VendorId    : 1414
+[2022.11.29-07.28.11:732][  0]LogD3D11RHI:     DeviceId    : 008c
+[2022.11.29-07.28.11:732][  0]LogD3D11RHI:     SubSysId    : 0000
+[2022.11.29-07.28.11:732][  0]LogD3D11RHI:     Revision    : 0000
+[2022.11.29-07.28.11:732][  0]LogD3D11RHI:     DedicatedVideoMemory : 0 bytes
+[2022.11.29-07.28.11:732][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.11.29-07.28.11:732][  0]LogD3D11RHI:     SharedSystemMemory : 8555780096 bytes
+[2022.11.29-07.28.11:732][  0]LogD3D11RHI:     AdapterLuid : 0 50501
+[2022.11.29-07.28.11:733][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_1)
+[2022.11.29-07.28.11:733][  0]LogD3D11RHI:       0/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.11.29-07.28.11:733][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.11.29-07.28.11:733][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1660
+[2022.11.29-07.28.11:733][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.11.29-07.28.11:733][  0]LogD3D11RHI:     DeviceId    : 2184
+[2022.11.29-07.28.11:733][  0]LogD3D11RHI:     SubSysId    : 37921462
+[2022.11.29-07.28.11:733][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.11.29-07.28.11:733][  0]LogD3D11RHI:     DedicatedVideoMemory : 6282018816 bytes
+[2022.11.29-07.28.11:733][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.11.29-07.28.11:733][  0]LogD3D11RHI:     SharedSystemMemory : 8555780096 bytes
+[2022.11.29-07.28.11:733][  0]LogD3D11RHI:     AdapterLuid : 0 43501
+[2022.11.29-07.28.11:733][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.11.29-07.28.11:733][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.11.29-07.28.11:734][  0]LogHAL: Display: Platform has ~ 16 GB [17111560192 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.11.29-07.28.11:734][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.11.29-07.28.11:734][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.11.29-07.28.11:734][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.11.29-07.28.11:734][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.11.29-07.28.11:734][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/STL/Documents/WorkSpace/UE_PaintShooter/Saved/Config/WindowsEditor/Editor.ini]
+[2022.11.29-07.28.11:734][  0]LogInit: Computer: DESKTOP-OI347SU
+[2022.11.29-07.28.11:734][  0]LogInit: User: STL
+[2022.11.29-07.28.11:734][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.11.29-07.28.11:734][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.11.29-07.28.11:734][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.11.29-07.28.11:734][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.11.29-07.28.11:734][  0]LogMemory: Process Physical Memory: 268.71 MB used, 275.57 MB peak
+[2022.11.29-07.28.11:734][  0]LogMemory: Process Virtual Memory: 239.18 MB used, 239.18 MB peak
+[2022.11.29-07.28.11:734][  0]LogMemory: Physical Memory: 6143.62 MB used,  10175.23 MB free, 16318.86 MB total
+[2022.11.29-07.28.11:734][  0]LogMemory: Virtual Memory: 12163.59 MB used,  11323.26 MB free, 23486.86 MB total
+[2022.11.29-07.28.11:734][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.11.29-07.28.11:738][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.11.29-07.28.11:749][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.11.29-07.28.11:749][  0]LogInit: Using OS detected language (ko-KR).
+[2022.11.29-07.28.11:749][  0]LogInit: Using OS detected locale (ko-KR).
+[2022.11.29-07.28.11:754][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so 'ko' will be used for the language.
+[2022.11.29-07.28.11:850][  0]LogInit: Setting process to per monitor DPI aware
+[2022.11.29-07.28.11:873][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.11.29-07.28.11:873][  0]LogWindowsTextInputMethodSystem:   - 한국어(대한민국) - Microsoft 입력기 (TSF IME).
+[2022.11.29-07.28.11:873][  0]LogWindowsTextInputMethodSystem: Activated input method: 한국어(대한민국) - Microsoft 입력기 (TSF IME).
+[2022.11.29-07.28.11:882][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.11.29-07.28.11:882][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.11.29-07.28.12:007][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.11.29-07.28.12:007][  0]LogD3D11RHI:     GPU DeviceId: 0x2184 (for the marketing name, search the web for "GPU Device Id")
+[2022.11.29-07.28.12:007][  0]LogWindows: Attached monitors:
+[2022.11.29-07.28.12:007][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1040), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.11.29-07.28.12:007][  0]LogWindows: Found 1 attached monitors.
+[2022.11.29-07.28.12:007][  0]LogWindows: EnumDisplayDevices:
+[2022.11.29-07.28.12:007][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1660' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.11.29-07.28.12:007][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1660' (P:0 D:0), name: '\\.\DISPLAY2'
+[2022.11.29-07.28.12:008][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1660' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.11.29-07.28.12:008][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1660' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.11.29-07.28.12:008][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.11.29-07.28.12:008][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1660
+[2022.11.29-07.28.12:008][  0]LogD3D11RHI:   Driver Version: 517.40 (internal:31.0.15.1740, unified:517.40)
+[2022.11.29-07.28.12:008][  0]LogD3D11RHI:      Driver Date: 9-12-2022
+[2022.11.29-07.28.12:008][  0]LogRHI: Texture pool is 4193 MB (70% of 5991 MB)
+[2022.11.29-07.28.12:008][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.11.29-07.28.12:008][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1660
+[2022.11.29-07.28.12:008][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.11.29-07.28.12:008][  0]LogD3D11RHI:     DeviceId    : 2184
+[2022.11.29-07.28.12:008][  0]LogD3D11RHI:     SubSysId    : 37921462
+[2022.11.29-07.28.12:008][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.11.29-07.28.12:008][  0]LogD3D11RHI:     DedicatedVideoMemory : 6282018816 bytes
+[2022.11.29-07.28.12:008][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.11.29-07.28.12:008][  0]LogD3D11RHI:     SharedSystemMemory : 8555780096 bytes
+[2022.11.29-07.28.12:008][  0]LogD3D11RHI:     AdapterLuid : 0 43501
+[2022.11.29-07.28.12:062][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.11.29-07.28.12:062][  0]LogD3D11RHI: Async texture creation enabled
+[2022.11.29-07.28.12:062][  0]LogD3D11RHI: D3D11_MAP_WRITE_NO_OVERWRITE for dynamic buffer SRVs is supported
+[2022.11.29-07.28.12:062][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.11.29-07.28.12:083][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2022.11.29-07.28.12:102][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.11.29-07.28.12:106][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/STL/Documents/WorkSpace/UE_PaintShooter/UE_PaintShooter.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/STL/Documents/WorkSpace/UE_PaintShooter/Intermediate/TurnkeyReport_0.log" -log="C:/Users/STL/Documents/WorkSpace/UE_PaintShooter/Intermediate/TurnkeyLog_0.log" -project="C:/Users/STL/Documents/WorkSpace/UE_PaintShooter/UE_PaintShooter.uproject"  -platform=all'
+[2022.11.29-07.28.12:106][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/STL/Documents/WorkSpace/UE_PaintShooter/UE_PaintShooter.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/STL/Documents/WorkSpace/UE_PaintShooter/Intermediate/TurnkeyReport_0.log" -log="C:/Users/STL/Documents/WorkSpace/UE_PaintShooter/Intermediate/TurnkeyLog_0.log" -project="C:/Users/STL/Documents/WorkSpace/UE_PaintShooter/UE_PaintShooter.uproject"  -platform=all" ]
+[2022.11.29-07.28.12:122][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.11.29-07.28.12:127][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.11.29-07.28.12:128][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.11.29-07.28.12:133][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.11.29-07.28.12:133][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.11.29-07.28.12:133][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.11.29-07.28.12:133][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.11.29-07.28.12:133][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.11.29-07.28.12:133][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.11.29-07.28.12:133][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.11.29-07.28.12:133][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.11.29-07.28.12:133][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.11.29-07.28.12:133][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.11.29-07.28.12:154][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.11.29-07.28.12:154][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.11.29-07.28.12:157][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.11.29-07.28.12:158][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.11.29-07.28.12:160][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.11.29-07.28.12:160][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.11.29-07.28.12:160][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.11.29-07.28.12:160][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.11.29-07.28.12:162][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.11.29-07.28.12:162][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.11.29-07.28.12:162][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.11.29-07.28.12:164][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.11.29-07.28.12:164][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.11.29-07.28.12:168][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.11.29-07.28.12:168][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.11.29-07.28.12:168][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.11.29-07.28.12:168][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.11.29-07.28.12:168][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.11.29-07.28.12:173][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.11.29-07.28.12:175][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.11.29-07.28.12:175][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.11.29-07.28.12:175][  0]LogTargetPlatformManager:   ADPCM
+[2022.11.29-07.28.12:175][  0]LogTargetPlatformManager:   PCM
+[2022.11.29-07.28.12:177][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.11.29-07.28.12:177][  0]LogTargetPlatformManager:   BINKA
+[2022.11.29-07.28.12:177][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.11.29-07.28.12:177][  0]LogTargetPlatformManager:   OGG
+[2022.11.29-07.28.12:177][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.11.29-07.28.12:177][  0]LogTargetPlatformManager:   OPUS
+[2022.11.29-07.28.12:210][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.11.29-07.28.12:214][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.11.29-07.28.12:214][  0]LogTargetPlatformManager:   SF_METAL
+[2022.11.29-07.28.12:214][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.11.29-07.28.12:214][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.11.29-07.28.12:214][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.11.29-07.28.12:214][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.11.29-07.28.12:214][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.11.29-07.28.12:214][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.11.29-07.28.12:214][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.11.29-07.28.12:214][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.11.29-07.28.12:214][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.11.29-07.28.12:214][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.11.29-07.28.12:214][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.11.29-07.28.12:214][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.11.29-07.28.12:214][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.11.29-07.28.12:214][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.11.29-07.28.12:217][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.11.29-07.28.12:217][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.11.29-07.28.12:217][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.11.29-07.28.12:217][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.11.29-07.28.12:217][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.11.29-07.28.12:217][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.11.29-07.28.12:217][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.11.29-07.28.12:217][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.11.29-07.28.12:217][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/STL/Documents/WorkSpace/UE_PaintShooter/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.11.29-07.28.12:217][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.11.29-07.28.12:217][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/STL/Documents/WorkSpace/UE_PaintShooter/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.11.29-07.28.12:217][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.11.29-07.28.12:219][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/STL/Documents/WorkSpace/UE_PaintShooter/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.11.29-07.28.12:219][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.11.29-07.28.12:219][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/STL/Documents/WorkSpace/UE_PaintShooter/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.11.29-07.28.12:219][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.11.29-07.28.12:238][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2022.11.29-07.28.12:238][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.11.29-07.28.12:238][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.11.29-07.28.12:246][  0]LogDerivedDataCache: Speed tests for C:/Users/STL/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.11.29-07.28.12:246][  0]LogDerivedDataCache: Display: Performance to C:/Users/STL/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=364.68MBs, RandomWriteSpeed=181.90MBs. Assigned SpeedClass 'Local'
+[2022.11.29-07.28.12:247][  0]LogDerivedDataCache: Using Local data cache path C:/Users/STL/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.11.29-07.28.12:247][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.11.29-07.28.12:247][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.11.29-07.28.12:253][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.11.29-07.28.12:253][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.11.29-07.28.12:253][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../../../Users/STL/Documents/WorkSpace/UE_PaintShooter/Intermediate/Shaders/WorkingDirectory/11944/).
+[2022.11.29-07.28.12:253][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/STL/AppData/Local/Temp/UnrealShaderWorkingDir/9B6F68484FDD2B68FE2E67BA85E0B1C8/'.
+[2022.11.29-07.28.12:253][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.11.29-07.28.12:253][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2022.11.29-07.28.13:379][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.11.29-07.28.13:379][  0]LogSlate: Using FreeType 2.10.0
+[2022.11.29-07.28.13:379][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.11.29-07.28.13:407][  0]LogAssetRegistry: FAssetRegistry took 0.0116 seconds to start up
+[2022.11.29-07.28.13:412][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.11.29-07.28.13:562][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.11.29-07.28.13:563][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.11.29-07.28.13:835][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.11.29-07.28.13:835][  0]LogDeviceProfileManager: Active device profile: [0000097B1519F500][0000097B0D130000 50] WindowsEditor
+[2022.11.29-07.28.13:835][  0]LogDeviceProfileManager: Profiles: [0000097B1519EFC0][0000097B0D132800 50] Windows, [0000097B1519F500][0000097B0D130000 50] WindowsEditor, [0000097B1519E1C0][0000097B0D13A000 50] WindowsServer, [0000097B1519CE80][0000097B080EC800 50] WindowsClient, [0000097B1519CB00][0000097B0F1DC800 50] IOS, [0000097B1519F6C0][0000097B0D0D7800 50] iPadAir2, [0000097B1519FDC0][0000097AF3725000 50] IPadPro, [0000097B15E1FDC0][0000097B0D135000 50] iPadAir3, [0000097B1519EE00][0000097B15660000 50] iPadAir4, [0000097B1519C780][0000097B15665000 50] iPadMini4, [0000097B1519C240][0000097B15667800 50] iPadMini5, [0000097B1519E8C0][0000097B1566A000 50] iPadMini6, [0000097B15732840][0000097B15740000 50] iPhone6S, [0000097B15732BC0][0000097B15742800 50] iPhone7, [0000097B15730540][0000097B15745000 50] iPodTouch7, [0000097B15732680][0000097B1574A000 50] iPhone6SPlus, [0000097B157324C0][0000097B1574C800 50] iPhone7Plus, [0000097B15732300][0000097B0D0D5000 50] iPhoneSE, [0000097B15732140][0000097B1566C800 50] iPhone8, [0000097B15731F80][0000097B15747800 50] iPhone8Plus, [0000097B15730700][0000097B15720000 50] iPhoneX, [0000097B157316C0][0000097B15725000 50] iPhoneXS, [0000097B15730380][0000097B15727800 50] iPhoneXSMax, [0000097B157301C0][0000097B1572A000 50] iPhoneXR, [0000097B15731A40][0000097B1572C800 50] iPhone11, [0000097B15730FC0][0000097B15662800 50] iPhone11Pro, [0000097B15731500][0000097B156C0000 50] iPhone11ProMax, [0000097B157308C0][0000097B156C5000 50] iPhoneSE2, [0000097B15733640][0000097B156C7800 50] iPhone12Mini, [0000097B15733B80][0000097B156CA000 50] iPhone12, [0000097B15733100][0000097B156CC800 50] iPhone12Pro, [0000097B15732F40][0000097B15722800 50] iPhone12ProMax, [0000097B15730E00][0000097B156D0000 50] iPhone13Mini, [0000097B15730C40][0000097B156D5000 50] iPhone13, [0000097B15731DC0][0000097B156D7800 50] iPhone13Pro, [0000097B15730A80][0000097B156DA000 50] iPhone13ProMax, [0000097B15731880][0000097B156DC800 50] iPadPro105, [0000097B15732D80][0000097B156C2800 50] iPadPro129, [0000097B15734980][0000097B156E0000 50] iPadPro97, [0000097B15731180][0000097B156E5000 50] iPadPro2_129, [0000097B15733F00][0000097B156E7800 50] iPad5, [0000097B15731C00][0000097B156EA000 50] iPad6, [0000097B157332C0][0000097B156EC800 50] iPad7, [0000097B15733480][0000097B156D2800 50] iPad8, [0000097B15733800][0000097B15760000 50] iPad9, [0000097B15734440][0000097B15765000 50] iPadPro11, [0000097B15734D00][0000097B15767800 50] iPadPro2_11, [0000097B15735940][0000097B1576A000 50] iPadPro3_11, [0000097B15733D40][0000097B1576C800 50] iPadPro3_129, [0000097B15734EC0][0000097B156E2800 50] iPadPro4_129, [0000097B157339C0][0000097B15770000 50] iPadPro5_129, [0000097B157340C0][0000097B15775000 50] AppleTV, [0000097B15731340][0000097B15777800 50] AppleTV4K, [0000097B15734600][0000097B1577A000 50] TVOS, [0000097B15738C00][0000097B15762800 50] Mac, [0000097B15738F80][0000097B1577C800 50] MacEditor, [0000097B157386C0][0000097B15780000 50] MacClient, [0000097B15734B40][0000097B15785000 50] MacServer, [0000097B15739140][0000097B1578A000 50] Linux, [0000097B15736900][0000097B15787800 50] LinuxEditor, [0000097B15738DC0][0000097B1578C800 50] LinuxArm64Editor, [0000097B15739300][0000097B15772800 50] LinuxArm64, [0000097B15739A00][0000097B15790000 50] LinuxClient, [0000097B15736AC0][0000097B15795000 50] LinuxArm64Client, [0000097B15738880][0000097B15797800 50] LinuxServer, [0000097B15735CC0][0000097B1579A000 50] LinuxArm64Server, [0000097B157355C0][0000097B1579C800 50] Android, [0000097B157394C0][0000097B15782800 50] Android_Preview_OpenGL, [0000097B15737A80][0000097B157A0000 50] Android_Preview_Vulkan, [0000097B15735080][0000097B157A5000 50] Android_Low, [0000097B15734280][0000097B157A7800 50] Android_Mid, [0000097B15736200][0000097B157AA000 50] Android_High, [0000097B15732A00][0000097B157AC800 50] Android_Default, [0000097B15738180][0000097B15792800 50] Android_Adreno4xx, [0000097B157371C0][0000097B157B0000 50] Android_Adreno5xx_Low, [0000097B15736580][0000097B157B5000 50] Android_Adreno5xx, [0000097B15736040][0000097B157B7800 50] Android_Adreno6xx, [0000097B15739840][0000097B157BA000 50] Android_Adreno6xx_Vulkan, [0000097B15737380][0000097B157BC800 50] Android_Adreno7xx, [0000097B15737C40][0000097B157A2800 50] Android_Adreno7xx_Vulkan, [0000097B15738500][0000097B157C0000 50] Android_Mali_T6xx, [0000097B15730000][0000097B157C5000 50] Android_Mali_T7xx, [0000097B15737540][0000097B157C7800 50] Android_Mali_T8xx, [0000097B15735780][0000097B157CA000 50] Android_Mali_G71, [0000097B15737700][0000097B157CC800 50] Android_Mali_G72, [0000097B15737FC0][0000097B157B2800 50] Android_Mali_G72_Vulkan, [0000097B15736C80][0000097B157D0000 50] Android_Mali_G76, [0000097B157378C0][0000097B157D5000 50] Android_Mali_G76_Vulkan, [0000097B1573A100][0000097B157D7800 50] Android_Mali_G77, [0000097B15738A40][0000097B157DA000 50] Android_Mali_G77_Vulkan, [0000097B15739680][0000097B157DC800 50] Android_Mali_G78, [0000097B15736740][0000097B157C2800 50] Android_Mali_G78_Vulkan, [0000097B1573A800][0000097B157E0000 50] Android_Mali_G710, [0000097B157347C0][0000097B157E5000 50] Android_Mali_G710_Vulkan, [0000097B15739D80][0000097B157E7800 50] Android_Xclipse_920, [0000097B15736E40][0000097B157EA000 50] Android_Xclipse_920_Vulkan, [0000097B1573A9C0][0000097B157EC800 50] Android_Vulkan_SM5, [0000097B1573B0C0][0000097B157D2800 50] Android_PowerVR_G6xxx, [0000097B1573A640][0000097B157F0000 50] Android_PowerVR_GT7xxx, [0000097B15735240][0000097B157F5000 50] Android_PowerVR_GE8xxx, [0000097B1573AF00][0000097B157F7800 50] Android_PowerVR_GM9xxx, [0000097B1573A480][0000097B157FA000 50] Android_PowerVR_GM9xxx_Vulkan, [0000097B1573AD40][0000097B157FC800 50] Android_TegraK1, [0000097B157363C0][0000097B157E2800 50] Android_Unknown_Vulkan, [0000097B1573B280][0000097B16010000 50] Oculus_Quest, [0000097B1573BB40][0000097B16015000 50] Oculus_Quest2, [0000097B15738340][0000097B16017800 50] HoloLens, 
+[2022.11.29-07.28.13:835][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.11.29-07.28.13:837][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2022.11.29-07.28.13:837][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.11.29-07.28.13:837][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.11.29-07.28.13:837][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.11.29-07.28.13:837][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.22621.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.11.29-07.28.13:853][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.11.29-07.28.14:014][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.11.29-07.28.14:014][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.11.29-07.28.14:014][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.11.29-07.28.14:014][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.11.29-07.28.14:014][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.11.29-07.28.14:026][  0]LogNetVersion: UE_PaintShooter 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 2069700881)
+[2022.11.29-07.28.14:135][  0]LogSlate: Border
+[2022.11.29-07.28.14:135][  0]LogSlate: BreadcrumbButton
+[2022.11.29-07.28.14:135][  0]LogSlate: Default
+[2022.11.29-07.28.14:135][  0]LogSlate: Icons.Save
+[2022.11.29-07.28.14:135][  0]LogSlate: Icons.Toolbar.Settings
+[2022.11.29-07.28.14:135][  0]LogSlate: ListView
+[2022.11.29-07.28.14:135][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.11.29-07.28.14:135][  0]LogSlate: SoftwareCursor_Grab
+[2022.11.29-07.28.14:135][  0]LogSlate: TableView.DarkRow
+[2022.11.29-07.28.14:135][  0]LogSlate: TableView.Row
+[2022.11.29-07.28.14:135][  0]LogSlate: TreeView
+[2022.11.29-07.28.14:287][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.11.29-07.28.14:312][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.11.29-07.28.14:312][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.11.29-07.28.14:416][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.11.29-07.28.14:416][  0]LogUObjectAllocator: 5584264 out of 0 bytes used by permanent object pool.
+[2022.11.29-07.28.14:416][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.11.29-07.28.14:744][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 16027294463E1D75783AA5BFD796EA25 | Instance: A07A684B46AAA8E8F44C8AA686CB3927 (DESKTOP-OI347SU-11944).
+[2022.11.29-07.28.14:774][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.11.29-07.28.14:778][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.11.29-07.28.14:790][  0]LogPython: Using Python 3.9.7
+[2022.11.29-07.28.15:522][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.11.29-07.28.15:526][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.11.29-07.28.15:531][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.11.29-07.28.15:535][  0]LogUProjectInfo: Found projects:
+[2022.11.29-07.28.15:809][  0]LogOpenImageDenoise: OIDN starting up
+[2022.11.29-07.28.15:820][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.11.29-07.28.15:838][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.11.29-07.28.15:838][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.11.29-07.28.15:916][  0]LogCollectionManager: Loaded 0 collections in 0.001817 seconds
+[2022.11.29-07.28.15:981][  0]LogFileCache: Scanning file cache for directory 'C:/Users/STL/Documents/WorkSpace/UE_PaintShooter/Saved/Collections/' took 0.00s
+[2022.11.29-07.28.15:982][  0]LogFileCache: Scanning file cache for directory 'C:/Users/STL/Documents/WorkSpace/UE_PaintShooter/Content/Developers/STL/Collections/' took 0.00s
+[2022.11.29-07.28.15:982][  0]LogFileCache: Scanning file cache for directory 'C:/Users/STL/Documents/WorkSpace/UE_PaintShooter/Content/Collections/' took 0.00s
+[2022.11.29-07.28.16:241][  0]LogEngine: Initializing Engine...
+[2022.11.29-07.28.16:254][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.11.29-07.28.16:254][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.11.29-07.28.16:478][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.11.29-07.28.16:478][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.29-07.28.16:488][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.29-07.28.16:515][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.11.29-07.28.16:516][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.11.29-07.28.16:539][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.11.29-07.28.16:539][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.11.29-07.28.16:539][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.11.29-07.28.16:540][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.11.29-07.28.16:540][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.11.29-07.28.16:540][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.29-07.28.16:540][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.29-07.28.16:540][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.29-07.28.16:540][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.29-07.28.16:540][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.29-07.28.16:540][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.29-07.28.16:540][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.29-07.28.16:540][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.29-07.28.16:540][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.29-07.28.16:540][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.29-07.28.16:540][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.29-07.28.16:546][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.29-07.28.16:566][  0]LogAudioMixer: Display: Using Audio Hardware Device TGL TW5511(NVIDIA High Definition Audio)
+[2022.11.29-07.28.16:566][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.29-07.28.16:568][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.29-07.28.16:568][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.29-07.28.16:568][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.11.29-07.28.16:568][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.11.29-07.28.16:569][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.11.29-07.28.16:569][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.11.29-07.28.16:569][  0]LogInit: FAudioDevice initialized.
+[2022.11.29-07.28.16:569][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.11.29-07.28.16:569][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.11.29-07.28.16:569][  0]LogInit: Texture streaming: Enabled
+[2022.11.29-07.28.16:600][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2022.11.29-07.28.16:608][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.11.29-07.28.16:631][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.11.29-07.28.16:638][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.11.29-07.28.16:638][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.11.29-07.28.17:507][  0]LogLiveCoding: Display: First instance in process group "UE_UE_PaintShooter_0x37bbedde", spawning console
+[2022.11.29-07.28.17:507][  0]LogLiveCoding: Display: Waiting for server
+[2022.11.29-07.28.17:507][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.11.29-07.28.17:529][  0]LogInit: Transaction tracking system initialized
+[2022.11.29-07.28.17:604][  0]BlueprintLog: New page: 에디터 로드
+[2022.11.29-07.28.17:786][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2022.11.29-07.28.17:832][  0]TimingProfiler: Initialize
+[2022.11.29-07.28.17:832][  0]TimingProfiler: OnSessionChanged
+[2022.11.29-07.28.17:832][  0]LoadingProfiler: Initialize
+[2022.11.29-07.28.17:832][  0]LoadingProfiler: OnSessionChanged
+[2022.11.29-07.28.17:832][  0]NetworkingProfiler: Initialize
+[2022.11.29-07.28.17:832][  0]NetworkingProfiler: OnSessionChanged
+[2022.11.29-07.28.17:832][  0]MemoryProfiler: Initialize
+[2022.11.29-07.28.17:832][  0]MemoryProfiler: OnSessionChanged
+[2022.11.29-07.28.18:305][  0]LogFileCache: Scanning file cache for directory 'C:/Users/STL/Documents/WorkSpace/UE_PaintShooter/Content/' took 0.01s
+[2022.11.29-07.28.18:305][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.11.29-07.28.18:503][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.11.29-07.28.18:505][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.11.29-07.28.18:505][  0]LogUnrealEdMisc: Loading editor; pre map load, took 8.127
+[2022.11.29-07.28.18:505][  0]Cmd: MAP LOAD FILE="../../../../../../Users/STL/Documents/WorkSpace/UE_PaintShooter/Content/FirstPerson/Maps/FirstPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.29-07.28.18:505][  0]LightingResults: New page: 라이팅 빌드
+[2022.11.29-07.28.18:512][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.11.29-07.28.18:512][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.29-07.28.18:512][  0]MapCheck: New page: 맵 체크
+[2022.11.29-07.28.18:512][  0]LightingResults: New page: 라이팅 빌드
+[2022.11.29-07.28.18:516][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.29-07.28.18:519][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.11.29-07.28.18:671][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonMap'.
+[2022.11.29-07.28.18:677][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.29-07.28.18:677][  0]LogAIModule: Creating AISystem for world FirstPersonMap
+[2022.11.29-07.28.18:678][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.11.29-07.28.18:678][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.11.29-07.28.18:828][  0]LogWorldPartition: Display: WorldPartition initialize took 149 ms
+[2022.11.29-07.28.18:832][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.29-07.28.18:839][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.11.29-07.28.18:840][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.29-07.28.18:840][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.227ms.
+[2022.11.29-07.28.18:840][  0]LogFileHelpers: Loading map 'FirstPersonMap' took 0.335
+[2022.11.29-07.28.18:851][  0]LogUnrealEdMisc: Total Editor Startup Time, took 8.473
+[2022.11.29-07.28.18:851][  0]LogShaderCompilers: Display: ================================================
+[2022.11.29-07.28.18:851][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.29-07.28.18:852][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.11.29-07.28.18:852][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.11.29-07.28.18:852][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.11.29-07.28.18:852][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.29-07.28.18:852][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.11.29-07.28.18:852][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.11.29-07.28.18:852][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.11.29-07.28.18:852][  0]LogShaderCompilers: Display: ================================================
+[2022.11.29-07.28.18:957][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.29-07.28.18:961][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.29-07.28.18:965][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.29-07.28.18:970][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.29-07.28.18:987][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.11.29-07.28.18:987][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.29-07.28.18:988][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.11.29-07.28.18:988][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.29-07.28.18:988][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.11.29-07.28.18:988][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.29-07.28.18:989][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.11.29-07.28.18:989][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.29-07.28.18:990][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.11.29-07.28.18:990][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.29-07.28.18:990][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.11.29-07.28.18:990][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.29-07.28.18:991][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.11.29-07.28.18:991][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.29-07.28.18:991][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.11.29-07.28.18:991][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.29-07.28.18:992][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.11.29-07.28.18:992][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.29-07.28.18:992][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.11.29-07.28.18:992][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.29-07.28.18:992][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2022.11.29-07.28.19:217][  0]LogSlate: Took 0.000211 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.11.29-07.28.19:219][  0]LogSlate: Took 0.001225 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2022.11.29-07.28.19:222][  0]LogSlate: Took 0.001223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2022.11.29-07.28.19:222][  0]LogSlate: Took 0.000129 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.11.29-07.28.19:223][  0]LogSlate: Took 0.000128 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.11.29-07.28.19:224][  0]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.11.29-07.28.19:224][  0]LogSlate: Took 0.000124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.11.29-07.28.19:225][  0]LogSlate: Took 0.001214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicExtraBold.ttf' (4074K)
+[2022.11.29-07.28.19:241][  0]LogViewport: Scene viewport resized to 1526x562, mode Windowed.
+[2022.11.29-07.28.19:270][  0]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.11.29-07.28.19:335][  0]LogStall: Startup...
+[2022.11.29-07.28.19:336][  0]LogStall: Startup complete.
+[2022.11.29-07.28.19:361][  0]LogLoad: (Engine Initialization) Total time: 8.98 seconds
+[2022.11.29-07.28.19:361][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.11.29-07.28.19:395][  0]LogAssetRegistry: Asset discovery search completed in 5.9890 seconds
+[2022.11.29-07.28.19:400][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000001 seconds (updated 0 objects)
+[2022.11.29-07.28.19:402][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.11.29-07.28.27:515][732]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.11.29-07.28.28:625][732]LogSlate: Window '부모 클래스 선택' being destroyed
+[2022.11.29-07.28.28:629][732]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.11.29-07.28.28:632][732]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.11.29-07.28.28:642][733]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.11.29-07.28.36:449][652]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Complete
+[2022.11.29-07.28.36:453][652]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.11.29-07.28.44:071][865]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_Complete.BP_Complete
+[2022.11.29-07.28.44:071][865]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.29-07.28.45:110][865]LogViewport: Scene viewport resized to 1141x693, mode Windowed.
+[2022.11.29-07.28.46:237][972]LogSlate: Took 0.000320 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.11.29-07.29.50:186][440]LogEditorTransaction: Undo 마우스 드래그
+[2022.11.29-07.30.13:635][986]LogDerivedDataCache: C:/Users/STL/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.384 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.29-07.30.52:578][607]LogEditorTransaction: Undo 마우스 드래그
+[2022.11.29-07.30.58:204][210]LogEditorTransaction: Undo 마우스 드래그
+[2022.11.29-07.30.59:025][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_Complete" FILE="../../../../../../Users/STL/Documents/WorkSpace/UE_PaintShooter/Content/FirstPerson/Blueprints/BP_Complete.uasset" SILENT=true
+[2022.11.29-07.30.59:032][247]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.006463 seconds
+[2022.11.29-07.30.59:036][247]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Complete
+[2022.11.29-07.30.59:037][247]LogSavePackage: Moving '../../../../../../Users/STL/Documents/WorkSpace/UE_PaintShooter/Saved/BP_Complete330F9DA3420A1423C583CD8BF9ABBC92.tmp' to '../../../../../../Users/STL/Documents/WorkSpace/UE_PaintShooter/Content/FirstPerson/Blueprints/BP_Complete.uasset'
+[2022.11.29-07.30.59:047][247]AssetCheck: New page: 에셋 저장:  BP_Complete
+[2022.11.29-07.30.59:048][247]LogContentValidation: Display: Blueprint /Game/FirstPerson/Blueprints/BP_Complete.BP_Complete 유효성 검사 중
+[2022.11.29-07.31.06:427][ 52]LogEditorTransaction: Undo 핀 링크 끊기
+[2022.11.29-07.31.15:255][  6]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_Complete" FILE="../../../../../../Users/STL/Documents/WorkSpace/UE_PaintShooter/Content/FirstPerson/Blueprints/BP_Complete.uasset" SILENT=true
+[2022.11.29-07.31.15:260][  6]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Complete
+[2022.11.29-07.31.15:260][  6]LogSavePackage: Moving '../../../../../../Users/STL/Documents/WorkSpace/UE_PaintShooter/Saved/BP_Complete80D6A1704B2DC4F584FDCC8CAE77BAEA.tmp' to '../../../../../../Users/STL/Documents/WorkSpace/UE_PaintShooter/Content/FirstPerson/Blueprints/BP_Complete.uasset'
+[2022.11.29-07.31.15:269][  6]AssetCheck: New page: 에셋 저장:  BP_Complete
+[2022.11.29-07.31.15:270][  6]LogContentValidation: Display: Blueprint /Game/FirstPerson/Blueprints/BP_Complete.BP_Complete 유효성 검사 중
+[2022.11.29-07.31.16:579][154]BlueprintLog: New page: BP_Complete 컴파일
+[2022.11.29-07.31.16:616][154]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.11.29-07.31.17:260][222]LogSlate: Window 'BP_Complete' being destroyed
+[2022.11.29-07.31.17:266][222]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.11.29-07.31.17:267][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.29-07.31.21:071][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_Complete" FILE="../../../../../../Users/STL/Documents/WorkSpace/UE_PaintShooter/Content/FirstPerson/Blueprints/BP_Complete.uasset" SILENT=true
+[2022.11.29-07.31.21:076][562]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Complete
+[2022.11.29-07.31.21:076][562]LogSavePackage: Moving '../../../../../../Users/STL/Documents/WorkSpace/UE_PaintShooter/Saved/BP_Complete8BEA9F79496AE2F0DBCF64A5F31AA268.tmp' to '../../../../../../Users/STL/Documents/WorkSpace/UE_PaintShooter/Content/FirstPerson/Blueprints/BP_Complete.uasset'
+[2022.11.29-07.31.21:085][562]AssetCheck: New page: 에셋 저장:  BP_Complete
+[2022.11.29-07.31.21:085][562]LogContentValidation: Display: Blueprint /Game/FirstPerson/Blueprints/BP_Complete.BP_Complete 유효성 검사 중
+[2022.11.29-07.33.41:555][526]LogContentBrowser: Attempting asset rename: BP_FirstPersonCharacter -> BP_RifleCharacter
+[2022.11.29-07.33.41:574][526]LogMetaData: Removing '/Game/FirstPerson/Blueprints/BP_RifleCharacter.BP_RifleCharacter_C' ref from Metadata '/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.PackageMetaData'
+[2022.11.29-07.33.41:574][526]LogMetaData: Removing '/Game/FirstPerson/Blueprints/BP_RifleCharacter.BP_RifleCharacter:OnFireGun.K2Node_FunctionEntry_0' ref from Metadata '/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.PackageMetaData'
+[2022.11.29-07.33.41:574][526]LogMetaData: Removing '/Game/FirstPerson/Blueprints/BP_RifleCharacter.BP_RifleCharacter:OnFireAutomaticGun.K2Node_FunctionEntry_0' ref from Metadata '/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.PackageMetaData'
+[2022.11.29-07.33.41:574][526]LogMetaData: Removing '/Game/FirstPerson/Blueprints/BP_RifleCharacter.BP_RifleCharacter:OnStopAutomaticGun.K2Node_FunctionEntry_0' ref from Metadata '/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.PackageMetaData'
+[2022.11.29-07.33.41:574][526]LogMetaData: Removing '/Game/FirstPerson/Blueprints/BP_RifleCharacter.SKEL_BP_RifleCharacter_C:InpAxisEvt_Turn Right / Left Gamepad_K2Node_InputAxisEvent_0' ref from Metadata '/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.PackageMetaData'
+[2022.11.29-07.33.41:574][526]LogMetaData: Removing '/Game/FirstPerson/Blueprints/BP_RifleCharacter.SKEL_BP_RifleCharacter_C:InpAxisEvt_Look Up / Down Gamepad_K2Node_InputAxisEvent_1' ref from Metadata '/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.PackageMetaData'
+[2022.11.29-07.33.41:574][526]LogMetaData: Removing '/Game/FirstPerson/Blueprints/BP_RifleCharacter.SKEL_BP_RifleCharacter_C:InpAxisEvt_Turn Right / Left Mouse_K2Node_InputAxisEvent_2' ref from Metadata '/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.PackageMetaData'
+[2022.11.29-07.33.41:574][526]LogMetaData: Removing '/Game/FirstPerson/Blueprints/BP_RifleCharacter.SKEL_BP_RifleCharacter_C:InpAxisEvt_Look Up / Down Mouse_K2Node_InputAxisEvent_3' ref from Metadata '/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.PackageMetaData'
+[2022.11.29-07.33.41:574][526]LogMetaData: Removing '/Game/FirstPerson/Blueprints/BP_RifleCharacter.SKEL_BP_RifleCharacter_C:InpAxisEvt_Move Forward / Backward_K2Node_InputAxisEvent_4' ref from Metadata '/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.PackageMetaData'
+[2022.11.29-07.33.41:574][526]LogMetaData: Removing '/Game/FirstPerson/Blueprints/BP_RifleCharacter.SKEL_BP_RifleCharacter_C:InpAxisEvt_Move Right / Left_K2Node_InputAxisEvent_5' ref from Metadata '/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.PackageMetaData'
+[2022.11.29-07.33.41:574][526]LogMetaData: Removing '/Game/FirstPerson/Blueprints/BP_RifleCharacter.SKEL_BP_RifleCharacter_C:BndEvt__BP_FirstPersonCharacter_CapsuleComponent_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.PackageMetaData'
+[2022.11.29-07.33.41:574][526]LogMetaData: Removing '/Game/FirstPerson/Blueprints/BP_RifleCharacter.SKEL_BP_RifleCharacter_C:UserConstructionScript' ref from Metadata '/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.PackageMetaData'
+[2022.11.29-07.33.41:574][526]LogMetaData: Removing '/Game/FirstPerson/Blueprints/BP_RifleCharacter.SKEL_BP_RifleCharacter_C' ref from Metadata '/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.PackageMetaData'
+[2022.11.29-07.33.41:629][526]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_Rifle" FILE="../../../../../../Users/STL/Documents/WorkSpace/UE_PaintShooter/Content/FirstPerson/Blueprints/BP_Rifle.uasset" SILENT=true
+[2022.11.29-07.33.41:644][526]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Rifle
+[2022.11.29-07.33.41:645][526]LogSavePackage: Moving '../../../../../../Users/STL/Documents/WorkSpace/UE_PaintShooter/Saved/BP_Rifle06B9D982454B57944DB6E78AE5689A7F.tmp' to '../../../../../../Users/STL/Documents/WorkSpace/UE_PaintShooter/Content/FirstPerson/Blueprints/BP_Rifle.uasset'
+[2022.11.29-07.33.41:666][526]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_PaintRifle
+[2022.11.29-07.33.41:666][526]LogSavePackage: Moving '../../../../../../Users/STL/Documents/WorkSpace/UE_PaintShooter/Saved/BP_PaintRifleCFD111584C24A915C4D32CBE56F6930E.tmp' to '../../../../../../Users/STL/Documents/WorkSpace/UE_PaintShooter/Content/FirstPerson/Blueprints/BP_PaintRifle.uasset'
+[2022.11.29-07.33.41:669][526]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonGameMode
+[2022.11.29-07.33.41:670][526]LogSavePackage: Moving '../../../../../../Users/STL/Documents/WorkSpace/UE_PaintShooter/Saved/BP_FirstPersonGameMode30617F614EB660266EF52D908A43E14C.tmp' to '../../../../../../Users/STL/Documents/WorkSpace/UE_PaintShooter/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset'
+[2022.11.29-07.33.41:691][526]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_RifleCharacter
+[2022.11.29-07.33.41:691][526]LogSavePackage: Moving '../../../../../../Users/STL/Documents/WorkSpace/UE_PaintShooter/Saved/BP_RifleCharacter9FD1E91444F20C3B8194F7A4E73FA027.tmp' to '../../../../../../Users/STL/Documents/WorkSpace/UE_PaintShooter/Content/FirstPerson/Blueprints/BP_RifleCharacter.uasset'
+[2022.11.29-07.33.41:726][526]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2022.11.29-07.33.41:747][526]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.11.29-07.33.41:765][526]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.11.29-07.33.41:770][526]AssetCheck: New page: 에셋 저장:  다수의 에셋
+[2022.11.29-07.33.41:770][526]LogContentValidation: Display: Blueprint /Game/FirstPerson/Blueprints/BP_RifleCharacter.BP_RifleCharacter 유효성 검사 중
+[2022.11.29-07.33.41:770][526]LogContentValidation: Display: Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonGameMode.BP_FirstPersonGameMode 유효성 검사 중
+[2022.11.29-07.33.41:770][526]LogContentValidation: Display: Blueprint /Game/FirstPerson/Blueprints/BP_Rifle.BP_Rifle 유효성 검사 중
+[2022.11.29-07.33.41:770][526]LogContentValidation: Display: Blueprint /Game/FirstPerson/Blueprints/BP_PaintRifle.BP_PaintRifle 유효성 검사 중
+[2022.11.29-07.33.51:917][405]LogLinker: Warning: [AssetLog] C:\Users\STL\Documents\WorkSpace\UE_PaintShooter\Content\UI\WD_Aim.uasset: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.11.29-07.33.51:917][405]LoadErrors: 로드에 실패했습니다. /Game/UI/WD_Aim.WD_Aim_C 참조한 것: WD_Aim_GEN_VARIABLE
+[2022.11.29-07.33.51:917][405]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Material/Tex/T_aim'
+[2022.11.29-07.33.51:919][405]LogLinker: Warning: [AssetLog] C:\Users\STL\Documents\WorkSpace\UE_PaintShooter\Content\UI\WD_Lockon.uasset: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.11.29-07.33.51:919][405]LoadErrors: 로드에 실패했습니다. /Game/UI/WD_Lockon.WD_Lockon_C 참조한 것: WD_Lockon_GEN_VARIABLE
+[2022.11.29-07.33.51:919][405]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Material/Tex/T_lockon'
+[2022.11.29-07.33.51:954][405]LogBlueprint: Warning: [AssetLog] C:\Users\STL\Documents\WorkSpace\UE_PaintShooter\Content\FirstPerson\Blueprints\BP_Character.uasset: [Compiler] InputAction Event가  Swap_Gun2 입력 액션 에 대해 알려지지 않은 'Swap_Gun2' 액션을 참조합니다.
+[2022.11.29-07.33.51:954][405]LogBlueprint: Warning: [AssetLog] C:\Users\STL\Documents\WorkSpace\UE_PaintShooter\Content\FirstPerson\Blueprints\BP_Character.uasset: [Compiler] InputAction Event가  Swap_Gun1 입력 액션 에 대해 알려지지 않은 'Swap_Gun1' 액션을 참조합니다.
+[2022.11.29-07.33.51:954][405]LogBlueprint: Warning: [AssetLog] C:\Users\STL\Documents\WorkSpace\UE_PaintShooter\Content\FirstPerson\Blueprints\BP_Character.uasset: [Compiler] InputAction Event가  Toggle_Firing 입력 액션 에 대해 알려지지 않은 'Toggle_Firing' 액션을 참조합니다.
+[2022.11.29-07.33.51:954][405]LogBlueprint: Warning: [AssetLog] C:\Users\STL\Documents\WorkSpace\UE_PaintShooter\Content\FirstPerson\Blueprints\BP_Character.uasset: [Compiler] InputAction Event가  LockOn 입력 액션 에 대해 알려지지 않은 'LockOn' 액션을 참조합니다.
+[2022.11.29-07.33.51:955][405]LogBlueprint: Warning: [AssetLog] C:\Users\STL\Documents\WorkSpace\UE_PaintShooter\Content\FirstPerson\Blueprints\BP_Character.uasset: [Compiler] Input Axis Event가  Leaning 입력 축 에 대해 알려지지 않은 'Leaning' 축을 참조합니다.
+[2022.11.29-07.33.51:960][405]LogBlueprint: Warning: [AssetLog] C:\Users\STL\Documents\WorkSpace\UE_PaintShooter\Content\FirstPerson\Blueprints\BP_Character.uasset: [Compiler] Get Input Axis에서  Leaning 구하기 에 대해 알려지지 않은 'Leaning' 축을 참조합니다.
+[2022.11.29-07.33.52:006][405]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_Character.BP_Character
+[2022.11.29-07.33.52:006][405]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.29-07.34.06:244][391]LogViewport: Scene viewport resized to 1141x693, mode Windowed.
+[2022.11.29-07.34.13:354][ 62]LogViewport: Scene viewport resized to 1139x711, mode Windowed.
+[2022.11.29-07.34.13:436][ 64]LogViewport: Scene viewport resized to 530x272, mode Windowed.
+[2022.11.29-07.34.13:457][ 65]LogViewport: Scene viewport resized to 467x226, mode Windowed.
+[2022.11.29-07.34.13:624][ 82]LogViewport: Scene viewport resized to 1141x693, mode Windowed.
+[2022.11.29-07.34.13:738][ 86]LogViewport: Scene viewport resized to 1139x711, mode Windowed.
+[2022.11.29-07.34.13:820][ 88]LogViewport: Scene viewport resized to 497x247, mode Windowed.
+[2022.11.29-07.34.13:850][ 89]LogViewport: Scene viewport resized to 467x226, mode Windowed.
+[2022.11.29-07.34.14:369][149]LogViewport: Scene viewport resized to 1141x693, mode Windowed.
+[2022.11.29-07.34.14:633][179]LogSlate: Window 'BP_Character' being destroyed
+[2022.11.29-07.34.22:214][ 29]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_RifleCharacter.BP_RifleCharacter
+[2022.11.29-07.34.22:215][ 29]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.29-07.34.23:971][173]LogViewport: Scene viewport resized to 1141x693, mode Windowed.
+[2022.11.29-07.34.50:855][254]LogUObjectGlobals: Warning: 'Class 없음.DestructibleMesh' 오브젝트를 찾는 데 실패했습니다.
+[2022.11.29-07.34.51:261][293]LogUObjectGlobals: Warning: 'Class 없음.DestructibleMesh' 오브젝트를 찾는 데 실패했습니다.
+[2022.11.29-07.34.57:884][ 38]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_RifleCharacter
+[2022.11.29-07.34.57:885][ 38]LogSavePackage: Moving '../../../../../../Users/STL/Documents/WorkSpace/UE_PaintShooter/Saved/BP_RifleCharacter63F62ACF42173510FF499AA834499C68.tmp' to '../../../../../../Users/STL/Documents/WorkSpace/UE_PaintShooter/Content/FirstPerson/Blueprints/BP_RifleCharacter.uasset'
+[2022.11.29-07.34.57:901][ 38]AssetCheck: New page: 에셋 저장:  BP_RifleCharacter
+[2022.11.29-07.34.57:901][ 38]LogContentValidation: Display: Blueprint /Game/FirstPerson/Blueprints/BP_RifleCharacter.BP_RifleCharacter 유효성 검사 중
+[2022.11.29-07.35.01:728][484]BlueprintLog: New page: BP_RifleCharacter 컴파일
+[2022.11.29-07.35.01:804][484]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2022.11.29-07.35.23:712][957]LogEditorTransaction: Undo 위치 붙여넣기
+[2022.11.29-07.35.29:983][595]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_RifleCharacter
+[2022.11.29-07.35.29:984][595]LogSavePackage: Moving '../../../../../../Users/STL/Documents/WorkSpace/UE_PaintShooter/Saved/BP_RifleCharacterD57BEB58499DAF3A3E5C0D9C95464C23.tmp' to '../../../../../../Users/STL/Documents/WorkSpace/UE_PaintShooter/Content/FirstPerson/Blueprints/BP_RifleCharacter.uasset'
+[2022.11.29-07.35.30:001][595]AssetCheck: New page: 에셋 저장:  BP_RifleCharacter
+[2022.11.29-07.35.30:001][595]LogContentValidation: Display: Blueprint /Game/FirstPerson/Blueprints/BP_RifleCharacter.BP_RifleCharacter 유효성 검사 중
+[2022.11.29-07.35.44:793][295]LogUObjectGlobals: Warning: 'Class 없음.DestructibleMesh' 오브젝트를 찾는 데 실패했습니다.
+[2022.11.29-07.35.53:322][276]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2022.11.29-07.35.53:329][276]LogWorldPartition: Display: GenerateStreaming started...
+[2022.11.29-07.35.53:329][276]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.11.29-07.35.53:329][276]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.29-07.35.53:329][276]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.11.29-07.35.53:329][276]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.11.29-07.35.53:329][276]LogWorldPartition: Display: GetPartitionedActors took 54 us
+[2022.11.29-07.35.53:329][276]LogWorldPartition: Display: GenerateStreaming took 338 us
+[2022.11.29-07.35.53:329][276]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2022.11.29-07.35.53:330][276]LogPlayLevel: [PlayLevel] Compiling BP_Rifle before play...
+[2022.11.29-07.35.53:352][276]LogPlayLevel: [PlayLevel] Compiling BP_PaintRifle before play...
+[2022.11.29-07.35.53:402][276]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.11.29-07.35.53:404][276]LogPlayLevel: PlayLevel: Blueprint regeneration took 74 ms (2 blueprints)
+[2022.11.29-07.35.53:404][276]PIE: New page: PIE 세션: FirstPersonMap (2022. 11. 30. 오전 1:35:53)
+[2022.11.29-07.35.53:407][276]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.11.29-07.35.53:407][276]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.11.29-07.35.53:407][276]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.11.29-07.35.53:412][276]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.11.29-07.35.53:412][276]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005054s)
+[2022.11.29-07.35.53:412][276]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.005105s)
+[2022.11.29-07.35.53:412][276]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.29-07.35.53:412][276]LogAIModule: Creating AISystem for world FirstPersonMap
+[2022.11.29-07.35.53:413][276]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.11.29-07.35.53:413][276]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.11.29-07.35.53:414][276]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.11.29-07.35.53:414][276]LogPlayLevel: PIE: World Init took: (0.002020s)
+[2022.11.29-07.35.53:440][276]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2022.11.29-07.35.53:441][276]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.11.29-07.35.53:441][276]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.29-07.35.53:441][276]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.29-07.35.53:441][276]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.29-07.35.53:441][276]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.29-07.35.53:441][276]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.29-07.35.53:441][276]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.29-07.35.53:441][276]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.29-07.35.53:441][276]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.29-07.35.53:441][276]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.29-07.35.53:441][276]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.29-07.35.53:441][276]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.29-07.35.53:443][276]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.29-07.35.53:456][276]LogAudioMixer: Display: Using Audio Hardware Device TGL TW5511(NVIDIA High Definition Audio)
+[2022.11.29-07.35.53:457][276]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.29-07.35.53:457][276]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.29-07.35.53:457][276]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.29-07.35.53:457][276]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.11.29-07.35.53:457][276]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.11.29-07.35.53:459][276]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.11.29-07.35.53:459][276]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.11.29-07.35.53:459][276]LogInit: FAudioDevice initialized.
+[2022.11.29-07.35.53:459][276]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonMap'.
+[2022.11.29-07.35.53:470][276]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.11.29-07.35.53:472][276]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2022.11.29-16.35.53
+[2022.11.29-07.35.53:473][276]LogWorld: Bringing up level for play took: 0.002024
+[2022.11.29-07.35.53:474][276]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2022.11.29-07.35.53:493][276]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=850.000 Z=98.337
+[2022.11.29-07.35.53:493][276]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.29-07.35.53:493][276]PIE: 서버가 로그인했습니다.
+[2022.11.29-07.35.53:494][276]PIE: 에디터에서 플레이 총 시작 시간 0.167초입니다.
+[2022.11.29-07.36.04:747][572]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.29-07.36.04:747][572]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.11.29-07.36.04:747][572]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.29-07.36.04:748][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.29-07.36.04:757][572]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.29-07.36.04:757][572]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.11.29-07.36.04:782][572]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.024 s
+[2022.11.29-07.36.04:782][572]LogOutputDevice: Error: === Handled ensure: ===
+[2022.11.29-07.36.04:782][572]LogOutputDevice: Error: 
+[2022.11.29-07.36.04:782][572]LogOutputDevice: Error: Ensure condition failed: IsPackageExternal() [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Engine\Classes\GameFramework\Actor.h] [Line: 2228]
+[2022.11.29-07.36.04:782][572]LogOutputDevice: Error: 
+[2022.11.29-07.36.04:782][572]LogOutputDevice: Error: Stack: 
+[2022.11.29-07.36.04:782][572]LogOutputDevice: Error: [Callstack] 0x00007ffee8a75fa6 UnrealEditor-Engine.dll!UnknownFunction []
+[2022.11.29-07.36.04:782][572]LogOutputDevice: Error: [Callstack] 0x00007ffee8a8f705 UnrealEditor-Engine.dll!UnknownFunction []
+[2022.11.29-07.36.04:782][572]LogOutputDevice: Error: [Callstack] 0x00007ffee8a706aa UnrealEditor-Engine.dll!UnknownFunction []
+[2022.11.29-07.36.04:782][572]LogOutputDevice: Error: [Callstack] 0x00007ffee38febed UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.11.29-07.36.04:782][572]LogOutputDevice: Error: [Callstack] 0x00007ffee43f0c73 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.11.29-07.36.04:782][572]LogOutputDevice: Error: [Callstack] 0x00007ffee3ddfa40 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.11.29-07.36.04:782][572]LogOutputDevice: Error: [Callstack] 0x00007ffee476aac6 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.11.29-07.36.04:782][572]LogOutputDevice: Error: [Callstack] 0x00007ff7f7c382f6 UnrealEditor.exe!UnknownFunction []
+[2022.11.29-07.36.04:782][572]LogOutputDevice: Error: [Callstack] 0x00007ff7f7c50d9c UnrealEditor.exe!UnknownFunction []
+[2022.11.29-07.36.04:782][572]LogOutputDevice: Error: [Callstack] 0x00007ff7f7c50e8a UnrealEditor.exe!UnknownFunction []
+[2022.11.29-07.36.04:782][572]LogOutputDevice: Error: [Callstack] 0x00007ff7f7c53c4d UnrealEditor.exe!UnknownFunction []
+[2022.11.29-07.36.04:782][572]LogOutputDevice: Error: [Callstack] 0x00007ff7f7c65564 UnrealEditor.exe!UnknownFunction []
+[2022.11.29-07.36.04:782][572]LogOutputDevice: Error: [Callstack] 0x00007ff7f7c68736 UnrealEditor.exe!UnknownFunction []
+[2022.11.29-07.36.04:782][572]LogOutputDevice: Error: [Callstack] 0x00007fff243574b4 KERNEL32.DLL!UnknownFunction []
+[2022.11.29-07.36.04:782][572]LogOutputDevice: Error: [Callstack] 0x00007fff25ea26a1 ntdll.dll!UnknownFunction []
+[2022.11.29-07.36.04:782][572]LogOutputDevice: Error: 
+[2022.11.29-07.36.04:783][572]LogStats:                SubmitErrorReport -  0.000 s
+[2022.11.29-07.36.05:488][572]LogStats:                    SendNewReport -  0.705 s
+[2022.11.29-07.36.05:488][572]LogStats:             FDebug::EnsureFailed -  0.731 s
+[2022.11.29-07.36.05:494][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.29-07.36.05:529][572]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.29-07.36.05:529][572]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.11.29-07.36.05:531][572]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.11.29-07.36.05:558][572]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.11.29-07.36.05:582][573]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.11.29-07.36.10:668][153]LogViewport: Scene viewport resized to 1526x574, mode Windowed.
+[2022.11.29-07.36.10:702][155]LogViewport: Scene viewport resized to 1526x612, mode Windowed.
+[2022.11.29-07.36.10:731][157]LogViewport: Scene viewport resized to 1526x665, mode Windowed.
+[2022.11.29-07.36.10:760][159]LogViewport: Scene viewport resized to 1526x701, mode Windowed.
+[2022.11.29-07.36.10:787][161]LogViewport: Scene viewport resized to 1526x720, mode Windowed.
+[2022.11.29-07.36.10:817][163]LogViewport: Scene viewport resized to 1526x734, mode Windowed.
+[2022.11.29-07.36.10:851][165]LogViewport: Scene viewport resized to 1526x744, mode Windowed.
+[2022.11.29-07.36.11:066][189]LogViewport: Scene viewport resized to 1526x740, mode Windowed.
+[2022.11.29-07.36.11:090][191]LogViewport: Scene viewport resized to 1526x728, mode Windowed.
+[2022.11.29-07.36.11:123][193]LogViewport: Scene viewport resized to 1526x710, mode Windowed.
+[2022.11.29-07.36.11:155][195]LogViewport: Scene viewport resized to 1526x707, mode Windowed.
+[2022.11.29-07.36.11:184][197]LogViewport: Scene viewport resized to 1526x704, mode Windowed.
+[2022.11.29-07.36.11:211][199]LogViewport: Scene viewport resized to 1526x698, mode Windowed.
+[2022.11.29-07.36.11:237][201]LogViewport: Scene viewport resized to 1526x681, mode Windowed.
+[2022.11.29-07.36.11:264][203]LogViewport: Scene viewport resized to 1526x664, mode Windowed.
+[2022.11.29-07.36.11:290][205]LogViewport: Scene viewport resized to 1526x649, mode Windowed.
+[2022.11.29-07.36.11:316][207]LogViewport: Scene viewport resized to 1526x633, mode Windowed.
+[2022.11.29-07.36.11:333][208]LogViewport: Scene viewport resized to 1526x625, mode Windowed.
+[2022.11.29-07.36.11:360][210]LogViewport: Scene viewport resized to 1526x608, mode Windowed.
+[2022.11.29-07.36.11:386][212]LogViewport: Scene viewport resized to 1526x603, mode Windowed.
+[2022.11.29-07.36.11:703][249]LogViewport: Scene viewport resized to 1526x604, mode Windowed.
+[2022.11.29-07.36.11:780][257]LogViewport: Scene viewport resized to 1526x615, mode Windowed.
+[2022.11.29-07.36.11:804][259]LogViewport: Scene viewport resized to 1526x619, mode Windowed.
+[2022.11.29-07.36.11:831][261]LogViewport: Scene viewport resized to 1526x621, mode Windowed.
+[2022.11.29-07.36.23:288][576]LogEditorTransaction: Undo 컴포넌트 어태치
+[2022.11.29-07.36.23:624][582]LogEditorTransaction: Undo 위치 붙여넣기
+[2022.11.29-07.36.28:921][146]LogEditorTransaction: Undo 컴포넌트 어태치
+[2022.11.29-07.36.31:662][397]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_RifleCharacter
+[2022.11.29-07.36.31:663][397]LogSavePackage: Moving '../../../../../../Users/STL/Documents/WorkSpace/UE_PaintShooter/Saved/BP_RifleCharacter04EE7880403208CEC72627B17DF79C94.tmp' to '../../../../../../Users/STL/Documents/WorkSpace/UE_PaintShooter/Content/FirstPerson/Blueprints/BP_RifleCharacter.uasset'
+[2022.11.29-07.36.31:673][397]AssetCheck: New page: 에셋 저장:  BP_RifleCharacter
+[2022.11.29-07.36.31:673][397]LogContentValidation: Display: Blueprint /Game/FirstPerson/Blueprints/BP_RifleCharacter.BP_RifleCharacter 유효성 검사 중
+[2022.11.29-07.36.33:078][557]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2022.11.29-07.36.33:085][557]LogWorldPartition: Display: GenerateStreaming started...
+[2022.11.29-07.36.33:085][557]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.11.29-07.36.33:085][557]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.29-07.36.33:085][557]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.11.29-07.36.33:085][557]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.11.29-07.36.33:085][557]LogWorldPartition: Display: GetPartitionedActors took 49 us
+[2022.11.29-07.36.33:085][557]LogWorldPartition: Display: GenerateStreaming took 372 us
+[2022.11.29-07.36.33:086][557]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.29-07.36.33:086][557]PIE: New page: PIE 세션: FirstPersonMap (2022. 11. 30. 오전 1:36:33)
+[2022.11.29-07.36.33:106][557]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.11.29-07.36.33:111][557]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.11.29-07.36.33:112][557]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005012s)
+[2022.11.29-07.36.33:112][557]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.005069s)
+[2022.11.29-07.36.33:112][557]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.29-07.36.33:112][557]LogAIModule: Creating AISystem for world FirstPersonMap
+[2022.11.29-07.36.33:112][557]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.11.29-07.36.33:112][557]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.11.29-07.36.33:113][557]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.11.29-07.36.33:114][557]LogPlayLevel: PIE: World Init took: (0.001983s)
+[2022.11.29-07.36.33:153][557]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.11.29-07.36.33:155][557]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.11.29-07.36.33:155][557]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.29-07.36.33:155][557]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.29-07.36.33:155][557]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.29-07.36.33:155][557]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.29-07.36.33:155][557]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.29-07.36.33:155][557]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.29-07.36.33:155][557]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.29-07.36.33:155][557]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.29-07.36.33:156][557]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.29-07.36.33:156][557]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.29-07.36.33:156][557]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.29-07.36.33:158][557]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.29-07.36.33:170][557]LogAudioMixer: Display: Using Audio Hardware Device TGL TW5511(NVIDIA High Definition Audio)
+[2022.11.29-07.36.33:170][557]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.29-07.36.33:170][557]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.29-07.36.33:170][557]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.29-07.36.33:171][557]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.11.29-07.36.33:171][557]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.11.29-07.36.33:172][557]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.11.29-07.36.33:172][557]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.11.29-07.36.33:172][557]LogInit: FAudioDevice initialized.
+[2022.11.29-07.36.33:172][557]LogAudio: Display: Audio Device (ID: 3) registered with world 'FirstPersonMap'.
+[2022.11.29-07.36.33:181][557]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.11.29-07.36.33:182][557]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2022.11.29-16.36.33
+[2022.11.29-07.36.33:183][557]LogWorld: Bringing up level for play took: 0.001932
+[2022.11.29-07.36.33:184][557]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2022.11.29-07.36.33:185][557]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=850.000 Z=98.337
+[2022.11.29-07.36.33:186][557]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.29-07.36.33:186][557]PIE: 서버가 로그인했습니다.
+[2022.11.29-07.36.33:186][557]PIE: 에디터에서 플레이 총 시작 시간 0.103초입니다.
+[2022.11.29-07.37.16:559][760]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 143.
+[2022.11.29-07.37.16:567][761]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 416 new particles truncated to 0.
+[2022.11.29-07.37.16:575][762]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.16:584][763]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.16:592][764]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 416 new particles truncated to 0.
+[2022.11.29-07.37.16:600][765]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.16:609][766]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.16:617][767]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 416 new particles truncated to 0.
+[2022.11.29-07.37.16:625][768]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.16:634][769]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.16:642][770]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 416 new particles truncated to 0.
+[2022.11.29-07.37.16:650][771]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.16:659][772]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.16:667][773]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 416 new particles truncated to 0.
+[2022.11.29-07.37.16:675][774]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.16:684][775]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.16:692][776]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 416 new particles truncated to 0.
+[2022.11.29-07.37.16:700][777]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.16:709][778]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.16:717][779]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 416 new particles truncated to 0.
+[2022.11.29-07.37.16:725][780]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.16:734][781]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.16:742][782]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 416 new particles truncated to 0.
+[2022.11.29-07.37.16:750][783]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.16:759][784]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.16:767][785]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 416 new particles truncated to 0.
+[2022.11.29-07.37.16:775][786]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.16:784][787]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.16:792][788]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 416 new particles truncated to 0.
+[2022.11.29-07.37.16:800][789]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.16:809][790]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.16:817][791]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 416 new particles truncated to 0.
+[2022.11.29-07.37.16:825][792]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.16:834][793]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.16:842][794]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 416 new particles truncated to 0.
+[2022.11.29-07.37.16:850][795]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.16:859][796]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.16:867][797]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 416 new particles truncated to 0.
+[2022.11.29-07.37.16:875][798]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.16:884][799]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.16:892][800]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 416 new particles truncated to 0.
+[2022.11.29-07.37.16:900][801]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.16:909][802]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.16:917][803]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 416 new particles truncated to 0.
+[2022.11.29-07.37.16:925][804]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.16:934][805]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.16:942][806]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.16:950][807]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 416 new particles truncated to 0.
+[2022.11.29-07.37.16:959][808]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.16:967][809]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.16:975][810]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 416 new particles truncated to 0.
+[2022.11.29-07.37.16:984][811]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.16:992][812]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.17:000][813]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 416 new particles truncated to 0.
+[2022.11.29-07.37.17:009][814]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.17:017][815]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.17:025][816]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 416 new particles truncated to 0.
+[2022.11.29-07.37.17:034][817]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.17:042][818]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.17:050][819]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 416 new particles truncated to 0.
+[2022.11.29-07.37.17:059][820]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.17:067][821]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.17:075][822]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 416 new particles truncated to 0.
+[2022.11.29-07.37.17:084][823]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.17:092][824]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.17:100][825]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 416 new particles truncated to 0.
+[2022.11.29-07.37.17:109][826]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.17:117][827]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.17:125][828]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 416 new particles truncated to 0.
+[2022.11.29-07.37.17:134][829]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.17:142][830]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.17:150][831]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 416 new particles truncated to 0.
+[2022.11.29-07.37.17:159][832]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.17:167][833]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.17:175][834]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 416 new particles truncated to 0.
+[2022.11.29-07.37.17:184][835]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.17:192][836]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.17:200][837]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 416 new particles truncated to 0.
+[2022.11.29-07.37.17:209][838]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.17:217][839]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.17:225][840]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 416 new particles truncated to 0.
+[2022.11.29-07.37.17:234][841]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.17:242][842]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.17:250][843]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 416 new particles truncated to 0.
+[2022.11.29-07.37.17:259][844]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.17:267][845]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.17:275][846]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 416 new particles truncated to 0.
+[2022.11.29-07.37.17:284][847]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.17:292][848]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.17:300][849]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 416 new particles truncated to 0.
+[2022.11.29-07.37.17:309][850]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.17:317][851]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.17:325][852]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 416 new particles truncated to 0.
+[2022.11.29-07.37.17:334][853]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.17:342][854]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.17:350][855]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 416 new particles truncated to 0.
+[2022.11.29-07.37.17:359][856]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.17:367][857]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.17:375][858]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 416 new particles truncated to 0.
+[2022.11.29-07.37.17:383][859]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.17:392][860]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.17:400][861]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 416 new particles truncated to 0.
+[2022.11.29-07.37.17:408][862]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.17:417][863]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.17:425][864]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 416 new particles truncated to 0.
+[2022.11.29-07.37.17:433][865]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.17:442][866]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.17:450][867]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.17:459][868]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 416 new particles truncated to 0.
+[2022.11.29-07.37.17:467][869]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.17:475][870]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.17:484][871]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 416 new particles truncated to 0.
+[2022.11.29-07.37.17:492][872]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.17:500][873]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.17:509][874]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 416 new particles truncated to 0.
+[2022.11.29-07.37.17:517][875]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.17:525][876]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.17:534][877]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 416 new particles truncated to 0.
+[2022.11.29-07.37.17:542][878]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.17:550][879]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.17:559][880]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 416 new particles truncated to 0.
+[2022.11.29-07.37.17:567][881]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.17:575][882]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.17:583][883]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 416 new particles truncated to 0.
+[2022.11.29-07.37.17:592][884]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.17:600][885]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.17:926][924]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 416 new particles truncated to 0.
+[2022.11.29-07.37.17:933][925]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.17:942][926]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.17:950][927]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 416 new particles truncated to 0.
+[2022.11.29-07.37.17:958][928]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.17:967][929]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.17:975][930]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 416 new particles truncated to 0.
+[2022.11.29-07.37.17:983][931]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.17:992][932]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.18:000][933]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 416 new particles truncated to 0.
+[2022.11.29-07.37.18:008][934]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.18:017][935]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.18:025][936]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 416 new particles truncated to 0.
+[2022.11.29-07.37.18:033][937]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.18:042][938]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.18:050][939]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 416 new particles truncated to 0.
+[2022.11.29-07.37.18:058][940]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.18:067][941]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.18:075][942]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 416 new particles truncated to 0.
+[2022.11.29-07.37.18:083][943]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.18:092][944]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.18:100][945]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 416 new particles truncated to 0.
+[2022.11.29-07.37.18:108][946]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.18:117][947]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.18:125][948]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 416 new particles truncated to 0.
+[2022.11.29-07.37.18:133][949]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.18:142][950]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.18:150][951]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 416 new particles truncated to 0.
+[2022.11.29-07.37.18:158][952]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.18:167][953]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.22:393][460]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 416 new particles truncated to 0.
+[2022.11.29-07.37.22:400][461]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.22:408][462]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.22:417][463]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 416 new particles truncated to 0.
+[2022.11.29-07.37.22:425][464]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.22:433][465]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.22:442][466]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 416 new particles truncated to 0.
+[2022.11.29-07.37.22:450][467]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.22:458][468]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.22:467][469]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 416 new particles truncated to 0.
+[2022.11.29-07.37.22:475][470]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.22:484][471]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.22:492][472]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 416 new particles truncated to 0.
+[2022.11.29-07.37.22:500][473]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.22:509][474]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.22:517][475]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 416 new particles truncated to 0.
+[2022.11.29-07.37.22:525][476]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.22:534][477]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.22:542][478]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 416 new particles truncated to 0.
+[2022.11.29-07.37.22:550][479]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.22:559][480]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.22:567][481]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 416 new particles truncated to 0.
+[2022.11.29-07.37.22:575][482]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.22:583][483]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.22:592][484]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 416 new particles truncated to 0.
+[2022.11.29-07.37.22:600][485]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.22:609][486]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.22:617][487]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 416 new particles truncated to 0.
+[2022.11.29-07.37.22:625][488]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.22:634][489]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.22:642][490]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 416 new particles truncated to 0.
+[2022.11.29-07.37.22:650][491]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.22:659][492]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.22:667][493]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 416 new particles truncated to 0.
+[2022.11.29-07.37.22:675][494]LogParticles: Warning: Failed to allocate tiles for PS_Paint! 417 new particles truncated to 0.
+[2022.11.29-07.37.23:457][580]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.29-07.37.23:457][580]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.11.29-07.37.23:457][580]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.29-07.37.23:458][580]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.29-07.37.23:469][580]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.29-07.37.23:475][580]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.29-07.37.23:508][580]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.29-07.37.23:508][580]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.11.29-07.37.23:510][580]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.11.29-07.37.23:515][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.11.29-07.37.23:539][581]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.11.29-07.37.24:875][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5
+[2022.11.29-07.37.24:875][732]LogSavePackage: Moving '../../../../../../Users/STL/Documents/WorkSpace/UE_PaintShooter/Saved/EAHCBN229IT8APJO305AH58EA4B68F46BB7C4FED1CBB963F9E8F06.tmp' to '../../../../../../Users/STL/Documents/WorkSpace/UE_PaintShooter/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset'
+[2022.11.29-07.37.24:878][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/5S/E7GHHFNYK56WQ9RLHCVOZR
+[2022.11.29-07.37.24:878][732]LogSavePackage: Moving '../../../../../../Users/STL/Documents/WorkSpace/UE_PaintShooter/Saved/E7GHHFNYK56WQ9RLHCVOZR41C9FD1F4BC968A972E8EBB4ADD45C0C.tmp' to '../../../../../../Users/STL/Documents/WorkSpace/UE_PaintShooter/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/5S/E7GHHFNYK56WQ9RLHCVOZR.uasset'
+[2022.11.29-07.37.24:894][732]AssetCheck: New page: 에셋 저장:  다수의 에셋
+[2022.11.29-07.37.24:894][732]LogContentValidation: Display: BP_PaintRifle_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_PaintRifle_C_UAID_40B076DA4655524E01_1535000959 유효성 검사 중
+[2022.11.29-07.37.24:894][732]LogContentValidation: Display: BP_Rifle_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Rifle_C_1 유효성 검사 중
+[2022.11.29-07.37.37:389][984]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.11.29-07.37.37:390][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.29-07.37.39:613][198]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2022.11.29-07.37.45:493][198]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.11.29-07.37.52:939][198]LogSlate: Window 'Delete Assets' being destroyed
+[2022.11.29-07.37.53:056][198]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.11.29-07.37.53:056][198]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.11.29-07.37.53:056][198]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.29-07.37.53:099][198]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/FirstPerson/Blueprints/BP_Character.BP_Character
+	Asset Type: Blueprint
+[2022.11.29-07.37.53:475][198]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.11.29-07.37.53:657][198]LogObjectTools: Warning: Detected inconsistencies between reference gathering algorithms. Switching 'Editor.UseLegacyGetReferencersForDeletion' on for the remainder of this editor session.
+[2022.11.29-07.37.53:805][198]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.11.29-07.37.53:828][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.11.29-07.37.53:846][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.11.29-07.37.57:546][590]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2022.11.29-07.37.57:553][590]LogWorldPartition: Display: GenerateStreaming started...
+[2022.11.29-07.37.57:553][590]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.11.29-07.37.57:553][590]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.29-07.37.57:553][590]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.11.29-07.37.57:553][590]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.11.29-07.37.57:553][590]LogWorldPartition: Display: GetPartitionedActors took 50 us
+[2022.11.29-07.37.57:553][590]LogWorldPartition: Display: GenerateStreaming took 345 us
+[2022.11.29-07.37.57:554][590]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2022.11.29-07.37.57:554][590]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.11.29-07.37.57:572][590]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.018 s
+[2022.11.29-07.37.57:572][590]LogOutputDevice: Error: === Handled ensure: ===
+[2022.11.29-07.37.57:572][590]LogOutputDevice: Error: 
+[2022.11.29-07.37.57:572][590]LogOutputDevice: Error: Ensure condition failed: Blueprint != nullptr [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Engine\Private\SimpleConstructionScript.cpp] [Line: 1433]
+[2022.11.29-07.37.57:572][590]LogOutputDevice: Error: Cannot validate SCS node variable names because the owning Blueprint could not be determined from the SCS context (perhaps it was deleted?).
+[2022.11.29-07.37.57:572][590]LogOutputDevice: Error: Stack: 
+[2022.11.29-07.37.57:572][590]LogOutputDevice: Error: [Callstack] 0x00007ffee850dc3f UnrealEditor-Engine.dll!UnknownFunction []
+[2022.11.29-07.37.57:572][590]LogOutputDevice: Error: [Callstack] 0x00007ffed9a5d0bb UnrealEditor-KismetCompiler.dll!UnknownFunction []
+[2022.11.29-07.37.57:572][590]LogOutputDevice: Error: [Callstack] 0x00007ffee121bc14 UnrealEditor-Kismet.dll!UnknownFunction []
+[2022.11.29-07.37.57:572][590]LogOutputDevice: Error: [Callstack] 0x00007ffee121fe03 UnrealEditor-Kismet.dll!UnknownFunction []
+[2022.11.29-07.37.57:572][590]LogOutputDevice: Error: [Callstack] 0x00007ffee11c4167 UnrealEditor-Kismet.dll!UnknownFunction []
+[2022.11.29-07.37.57:572][590]LogOutputDevice: Error: [Callstack] 0x00007ffee11c3f20 UnrealEditor-Kismet.dll!UnknownFunction []
+[2022.11.29-07.37.57:572][590]LogOutputDevice: Error: [Callstack] 0x00007ffee4240bfe UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.11.29-07.37.57:572][590]LogOutputDevice: Error: [Callstack] 0x00007ffee44346b3 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.11.29-07.37.57:572][590]LogOutputDevice: Error: [Callstack] 0x00007ffee443c717 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.11.29-07.37.57:572][590]LogOutputDevice: Error: [Callstack] 0x00007ffee4440cb7 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.11.29-07.37.57:572][590]LogOutputDevice: Error: [Callstack] 0x00007ffee44405a1 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.11.29-07.37.57:572][590]LogOutputDevice: Error: [Callstack] 0x00007ffee3dddcf3 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.11.29-07.37.57:572][590]LogOutputDevice: Error: [Callstack] 0x00007ffee476aac6 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.11.29-07.37.57:572][590]LogOutputDevice: Error: [Callstack] 0x00007ff7f7c382f6 UnrealEditor.exe!UnknownFunction []
+[2022.11.29-07.37.57:572][590]LogOutputDevice: Error: [Callstack] 0x00007ff7f7c50d9c UnrealEditor.exe!UnknownFunction []
+[2022.11.29-07.37.57:572][590]LogOutputDevice: Error: [Callstack] 0x00007ff7f7c50e8a UnrealEditor.exe!UnknownFunction []
+[2022.11.29-07.37.57:572][590]LogOutputDevice: Error: [Callstack] 0x00007ff7f7c53c4d UnrealEditor.exe!UnknownFunction []
+[2022.11.29-07.37.57:572][590]LogOutputDevice: Error: [Callstack] 0x00007ff7f7c65564 UnrealEditor.exe!UnknownFunction []
+[2022.11.29-07.37.57:572][590]LogOutputDevice: Error: [Callstack] 0x00007ff7f7c68736 UnrealEditor.exe!UnknownFunction []
+[2022.11.29-07.37.57:572][590]LogOutputDevice: Error: [Callstack] 0x00007fff243574b4 KERNEL32.DLL!UnknownFunction []
+[2022.11.29-07.37.57:572][590]LogOutputDevice: Error: [Callstack] 0x00007fff25ea26a1 ntdll.dll!UnknownFunction []
+[2022.11.29-07.37.57:572][590]LogOutputDevice: Error: 
+[2022.11.29-07.37.57:584][590]LogStats:                SubmitErrorReport -  0.000 s
+[2022.11.29-07.37.58:218][590]LogStats:                    SendNewReport -  0.634 s
+[2022.11.29-07.37.58:218][590]LogStats:             FDebug::EnsureFailed -  0.664 s
+[2022.11.29-07.37.58:220][590]LogPlayLevel: [PlayLevel] Compiling BP_Character before play...
+[2022.11.29-07.37.58:230][590]LogBlueprint: Warning: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] InputAction Event가  Swap_Gun2 입력 액션 에 대해 알려지지 않은 'Swap_Gun2' 액션을 참조합니다.
+[2022.11.29-07.37.58:230][590]LogBlueprint: Warning: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] InputAction Event가  Swap_Gun1 입력 액션 에 대해 알려지지 않은 'Swap_Gun1' 액션을 참조합니다.
+[2022.11.29-07.37.58:231][590]LogBlueprint: Warning: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] InputAction Event가  Toggle_Firing 입력 액션 에 대해 알려지지 않은 'Toggle_Firing' 액션을 참조합니다.
+[2022.11.29-07.37.58:231][590]LogBlueprint: Warning: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] InputAction Event가  LockOn 입력 액션 에 대해 알려지지 않은 'LockOn' 액션을 참조합니다.
+[2022.11.29-07.37.58:231][590]LogBlueprint: Warning: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] Input Axis Event가  Leaning 입력 축 에 대해 알려지지 않은 'Leaning' 축을 참조합니다.
+[2022.11.29-07.37.58:237][590]LogBlueprint: Warning: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] Get Input Axis에서  Leaning 구하기 에 대해 알려지지 않은 'Leaning' 축을 참조합니다.
+[2022.11.29-07.37.58:239][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] 이 블루프린트(셀프)는 ' 타깃 '에 호환되지 않으므로, 그 핀은 반드시 연결되어 있어야 합니다.
+[2022.11.29-07.37.58:239][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] 이 블루프린트(셀프)는 ' 타깃 '에 호환되지 않으므로, 그 핀은 반드시 연결되어 있어야 합니다.
+[2022.11.29-07.37.58:239][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] 이 블루프린트(셀프)는 ' 타깃 '에 호환되지 않으므로, 그 핀은 반드시 연결되어 있어야 합니다.
+[2022.11.29-07.37.58:239][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] 이 블루프린트(셀프)는 ' 타깃 '에 호환되지 않으므로, 그 핀은 반드시 연결되어 있어야 합니다.
+[2022.11.29-07.37.58:240][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] 이 블루프린트(셀프)는 ' 타깃 '에 호환되지 않으므로, 그 핀은 반드시 연결되어 있어야 합니다.
+[2022.11.29-07.37.58:240][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] 이 블루프린트(셀프)는 ' 타깃 '에 호환되지 않으므로, 그 핀은 반드시 연결되어 있어야 합니다.
+[2022.11.29-07.37.58:240][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] 이 블루프린트(셀프)는 ' 타깃 '에 호환되지 않으므로, 그 핀은 반드시 연결되어 있어야 합니다.
+[2022.11.29-07.37.58:240][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] 이 블루프린트(셀프)는 ' 타깃 '에 호환되지 않으므로, 그 핀은 반드시 연결되어 있어야 합니다.
+[2022.11.29-07.37.58:240][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] 이 블루프린트(셀프)는 ' 타깃 '에 호환되지 않으므로, 그 핀은 반드시 연결되어 있어야 합니다.
+[2022.11.29-07.37.58:240][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] 이 블루프린트(셀프)는 ' 타깃 '에 호환되지 않으므로, 그 핀은 반드시 연결되어 있어야 합니다.
+[2022.11.29-07.37.58:240][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] 이 블루프린트(셀프)는 ' 타깃 '에 호환되지 않으므로, 그 핀은 반드시 연결되어 있어야 합니다.
+[2022.11.29-07.37.58:241][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] 이 블루프린트(셀프)는 ' 타깃 '에 호환되지 않으므로, 그 핀은 반드시 연결되어 있어야 합니다.
+[2022.11.29-07.37.58:241][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] 이 블루프린트(셀프)는 ' 타깃 '에 호환되지 않으므로, 그 핀은 반드시 연결되어 있어야 합니다.
+[2022.11.29-07.37.58:241][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] 이 블루프린트(셀프)는 ' 타깃 '에 호환되지 않으므로, 그 핀은 반드시 연결되어 있어야 합니다.
+[2022.11.29-07.37.58:241][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] 이 블루프린트(셀프)는 ' 타깃 '에 호환되지 않으므로, 그 핀은 반드시 연결되어 있어야 합니다.
+[2022.11.29-07.37.58:241][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] 이 블루프린트(셀프)는 ' 타깃 '에 호환되지 않으므로, 그 핀은 반드시 연결되어 있어야 합니다.
+[2022.11.29-07.37.58:241][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] 이 블루프린트(셀프)는 ' 타깃 '에 호환되지 않으므로, 그 핀은 반드시 연결되어 있어야 합니다.
+[2022.11.29-07.37.58:241][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] 이 블루프린트(셀프)는 ' 타깃 '에 호환되지 않으므로, 그 핀은 반드시 연결되어 있어야 합니다.
+[2022.11.29-07.37.58:242][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] 이 블루프린트(셀프)는 ' 타깃 '에 호환되지 않으므로, 그 핀은 반드시 연결되어 있어야 합니다.
+[2022.11.29-07.37.58:242][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] 이 블루프린트(셀프)는 ' 타깃 '에 호환되지 않으므로, 그 핀은 반드시 연결되어 있어야 합니다.
+[2022.11.29-07.37.58:242][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] 이 블루프린트(셀프)는 ' 타깃 '에 호환되지 않으므로, 그 핀은 반드시 연결되어 있어야 합니다.
+[2022.11.29-07.37.58:242][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] 이 블루프린트(셀프)는 ' 타깃 '에 호환되지 않으므로, 그 핀은 반드시 연결되어 있어야 합니다.
+[2022.11.29-07.37.58:242][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] 이 블루프린트(셀프)는 ' 타깃 '에 호환되지 않으므로, 그 핀은 반드시 연결되어 있어야 합니다.
+[2022.11.29-07.37.58:242][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] 이 블루프린트(셀프)는 ' 타깃 '에 호환되지 않으므로, 그 핀은 반드시 연결되어 있어야 합니다.
+[2022.11.29-07.37.58:242][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] 이 블루프린트(셀프)는 ' 타깃 '에 호환되지 않으므로, 그 핀은 반드시 연결되어 있어야 합니다.
+[2022.11.29-07.37.58:242][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] 이 블루프린트(셀프)는 ' 타깃 '에 호환되지 않으므로, 그 핀은 반드시 연결되어 있어야 합니다.
+[2022.11.29-07.37.58:243][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] 이 블루프린트(셀프)는 ' 타깃 '에 호환되지 않으므로, 그 핀은 반드시 연결되어 있어야 합니다.
+[2022.11.29-07.37.58:243][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] 이 블루프린트(셀프)는 ' 타깃 '에 호환되지 않으므로, 그 핀은 반드시 연결되어 있어야 합니다.
+[2022.11.29-07.37.58:243][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] 이 블루프린트(셀프)는 ' 타깃 '에 호환되지 않으므로, 그 핀은 반드시 연결되어 있어야 합니다.
+[2022.11.29-07.37.58:243][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] 이 블루프린트(셀프)는 ' 타깃 '에 호환되지 않으므로, 그 핀은 반드시 연결되어 있어야 합니다.
+[2022.11.29-07.37.58:243][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] 이 블루프린트(셀프)는 ' 타깃 '에 호환되지 않으므로, 그 핀은 반드시 연결되어 있어야 합니다.
+[2022.11.29-07.37.58:243][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] 이 블루프린트(셀프)는 ' 타깃 '에 호환되지 않으므로, 그 핀은 반드시 연결되어 있어야 합니다.
+[2022.11.29-07.37.58:243][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] 이 블루프린트(셀프)는 ' 타깃 '에 호환되지 않으므로, 그 핀은 반드시 연결되어 있어야 합니다.
+[2022.11.29-07.37.58:243][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] 이 블루프린트(셀프)는 ' 타깃 '에 호환되지 않으므로, 그 핀은 반드시 연결되어 있어야 합니다.
+[2022.11.29-07.37.58:244][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] 이 블루프린트(셀프)는 ' 타깃 '에 호환되지 않으므로, 그 핀은 반드시 연결되어 있어야 합니다.
+[2022.11.29-07.37.58:244][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] 이 블루프린트(셀프)는 ' 타깃 '에 호환되지 않으므로, 그 핀은 반드시 연결되어 있어야 합니다.
+[2022.11.29-07.37.58:244][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] 이 블루프린트(셀프)는 ' 타깃 '에 호환되지 않으므로, 그 핀은 반드시 연결되어 있어야 합니다.
+[2022.11.29-07.37.58:244][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] 이 블루프린트(셀프)는 ' 타깃 '에 호환되지 않으므로, 그 핀은 반드시 연결되어 있어야 합니다.
+[2022.11.29-07.37.58:244][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] 이 블루프린트(셀프)는 ' 타깃 '에 호환되지 않으므로, 그 핀은 반드시 연결되어 있어야 합니다.
+[2022.11.29-07.37.58:244][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] 이 블루프린트(셀프)는 ' 타깃 '에 호환되지 않으므로, 그 핀은 반드시 연결되어 있어야 합니다.
+[2022.11.29-07.37.58:244][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] 이 블루프린트(셀프)는 ' 타깃 '에 호환되지 않으므로, 그 핀은 반드시 연결되어 있어야 합니다.
+[2022.11.29-07.37.58:245][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] 이 블루프린트(셀프)는 ' 타깃 '에 호환되지 않으므로, 그 핀은 반드시 연결되어 있어야 합니다.
+[2022.11.29-07.37.58:245][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] 이 블루프린트(셀프)는 ' 타깃 '에 호환되지 않으므로, 그 핀은 반드시 연결되어 있어야 합니다.
+[2022.11.29-07.37.58:245][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] 이 블루프린트(셀프)는 ' 타깃 '에 호환되지 않으므로, 그 핀은 반드시 연결되어 있어야 합니다.
+[2022.11.29-07.37.58:246][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] 이 블루프린트(셀프)는 ' 타깃 '에 호환되지 않으므로, 그 핀은 반드시 연결되어 있어야 합니다.
+[2022.11.29-07.37.58:246][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] 이 블루프린트(셀프)는 ' 타깃 '에 호환되지 않으므로, 그 핀은 반드시 연결되어 있어야 합니다.
+[2022.11.29-07.37.58:246][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] 이 블루프린트(셀프)는 ' 타깃 '에 호환되지 않으므로, 그 핀은 반드시 연결되어 있어야 합니다.
+[2022.11.29-07.37.58:246][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] 이 블루프린트(셀프)는 ' 타깃 '에 호환되지 않으므로, 그 핀은 반드시 연결되어 있어야 합니다.
+[2022.11.29-07.37.58:246][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] 이 블루프린트(셀프)는 ' 타깃 '에 호환되지 않으므로, 그 핀은 반드시 연결되어 있어야 합니다.
+[2022.11.29-07.37.58:246][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] 이 블루프린트(셀프)는 ' 타깃 '에 호환되지 않으므로, 그 핀은 반드시 연결되어 있어야 합니다.
+[2022.11.29-07.37.58:247][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] 이 블루프린트(셀프)는 ' 타깃 '에 호환되지 않으므로, 그 핀은 반드시 연결되어 있어야 합니다.
+[2022.11.29-07.37.58:247][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] 이 블루프린트(셀프)는 ' 타깃 '에 호환되지 않으므로, 그 핀은 반드시 연결되어 있어야 합니다.
+[2022.11.29-07.37.58:247][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] 이 블루프린트(셀프)는 ' 타깃 '에 호환되지 않으므로, 그 핀은 반드시 연결되어 있어야 합니다.
+[2022.11.29-07.37.58:247][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] 이 블루프린트(셀프)는 ' 타깃 '에 호환되지 않으므로, 그 핀은 반드시 연결되어 있어야 합니다.
+[2022.11.29-07.37.58:247][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] 이 블루프린트(셀프)는 ' 타깃 '에 호환되지 않으므로, 그 핀은 반드시 연결되어 있어야 합니다.
+[2022.11.29-07.37.58:247][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] 이 블루프린트(셀프)는 ' 타깃 '에 호환되지 않으므로, 그 핀은 반드시 연결되어 있어야 합니다.
+[2022.11.29-07.37.58:247][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] 이 블루프린트(셀프)는 ' 타깃 '에 호환되지 않으므로, 그 핀은 반드시 연결되어 있어야 합니다.
+[2022.11.29-07.37.58:248][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] 이 블루프린트(셀프)는 ' 타깃 '에 호환되지 않으므로, 그 핀은 반드시 연결되어 있어야 합니다.
+[2022.11.29-07.37.58:248][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] 이 블루프린트(셀프)는 ' 타깃 '에 호환되지 않으므로, 그 핀은 반드시 연결되어 있어야 합니다.
+[2022.11.29-07.37.58:248][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] Current Weapon  와 연관된 프로퍼티를 찾지 못했습니다.
+[2022.11.29-07.37.58:248][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] Turn Rate Gamepad  와 연관된 프로퍼티를 찾지 못했습니다.
+[2022.11.29-07.37.58:248][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] Ammo Count UI  와 연관된 프로퍼티를 찾지 못했습니다.
+[2022.11.29-07.37.58:249][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] Turn Rate Gamepad  와 연관된 프로퍼티를 찾지 못했습니다.
+[2022.11.29-07.37.58:249][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] Aim Widget  와 연관된 프로퍼티를 찾지 못했습니다.
+[2022.11.29-07.37.58:249][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] Actor Detected  와 연관된 프로퍼티를 찾지 못했습니다.
+[2022.11.29-07.37.58:249][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] Actor Detected Reference  와 연관된 프로퍼티를 찾지 못했습니다.
+[2022.11.29-07.37.58:249][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] WD Lockon  와 연관된 프로퍼티를 찾지 못했습니다.
+[2022.11.29-07.37.58:249][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] First Person Camera  와 연관된 프로퍼티를 찾지 못했습니다.
+[2022.11.29-07.37.58:249][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] WD Lockon  와 연관된 프로퍼티를 찾지 못했습니다.
+[2022.11.29-07.37.58:250][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] WD Lockon  와 연관된 프로퍼티를 찾지 못했습니다.
+[2022.11.29-07.37.58:250][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] WD Lockon  와 연관된 프로퍼티를 찾지 못했습니다.
+[2022.11.29-07.37.58:250][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] First Person Mesh  와 연관된 프로퍼티를 찾지 못했습니다.
+[2022.11.29-07.37.58:250][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] Current Weapon  와 연관된 프로퍼티를 찾지 못했습니다.
+[2022.11.29-07.37.58:250][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] Armed Weapons  와 연관된 프로퍼티를 찾지 못했습니다.
+[2022.11.29-07.37.58:250][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] Armed Weapons  와 연관된 프로퍼티를 찾지 못했습니다.
+[2022.11.29-07.37.58:251][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] Armed Weapons  와 연관된 프로퍼티를 찾지 못했습니다.
+[2022.11.29-07.37.58:251][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] Armed Weapons  와 연관된 프로퍼티를 찾지 못했습니다.
+[2022.11.29-07.37.58:251][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] Armed Weapons  와 연관된 프로퍼티를 찾지 못했습니다.
+[2022.11.29-07.37.58:251][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] Current Weapon  와 연관된 프로퍼티를 찾지 못했습니다.
+[2022.11.29-07.37.58:251][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] Armed Weapons  와 연관된 프로퍼티를 찾지 못했습니다.
+[2022.11.29-07.37.58:251][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] Ammo Count UI  와 연관된 프로퍼티를 찾지 못했습니다.
+[2022.11.29-07.37.58:251][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] Current Weapon  와 연관된 프로퍼티를 찾지 못했습니다.
+[2022.11.29-07.37.58:252][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] Current Weapon  와 연관된 프로퍼티를 찾지 못했습니다.
+[2022.11.29-07.37.58:252][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] Current Weapon  와 연관된 프로퍼티를 찾지 못했습니다.
+[2022.11.29-07.37.58:252][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] Current Weapon  와 연관된 프로퍼티를 찾지 못했습니다.
+[2022.11.29-07.37.58:252][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] Current Weapon  와 연관된 프로퍼티를 찾지 못했습니다.
+[2022.11.29-07.37.58:252][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] Current Weapon  와 연관된 프로퍼티를 찾지 못했습니다.
+[2022.11.29-07.37.58:252][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] Aim Widget  와 연관된 프로퍼티를 찾지 못했습니다.
+[2022.11.29-07.37.58:252][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] Aim Widget  와 연관된 프로퍼티를 찾지 못했습니다.
+[2022.11.29-07.37.58:253][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] Current Weapon  와 연관된 프로퍼티를 찾지 못했습니다.
+[2022.11.29-07.37.58:253][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] Current Weapon  와 연관된 프로퍼티를 찾지 못했습니다.
+[2022.11.29-07.37.58:253][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] Current Weapon  와 연관된 프로퍼티를 찾지 못했습니다.
+[2022.11.29-07.37.58:253][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] Current Weapon  와 연관된 프로퍼티를 찾지 못했습니다.
+[2022.11.29-07.37.58:253][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] Current Weapon  와 연관된 프로퍼티를 찾지 못했습니다.
+[2022.11.29-07.37.58:253][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] Current Weapon  와 연관된 프로퍼티를 찾지 못했습니다.
+[2022.11.29-07.37.58:253][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] Current Weapon  와 연관된 프로퍼티를 찾지 못했습니다.
+[2022.11.29-07.37.58:254][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] Current Weapon  와 연관된 프로퍼티를 찾지 못했습니다.
+[2022.11.29-07.37.58:254][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] Current Weapon  와 연관된 프로퍼티를 찾지 못했습니다.
+[2022.11.29-07.37.58:254][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] Current Weapon  와 연관된 프로퍼티를 찾지 못했습니다.
+[2022.11.29-07.37.58:254][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] Current Weapon  와 연관된 프로퍼티를 찾지 못했습니다.
+[2022.11.29-07.37.58:254][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] Current Weapon  와 연관된 프로퍼티를 찾지 못했습니다.
+[2022.11.29-07.37.58:255][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] Shoot Range  와 연관된 프로퍼티를 찾지 못했습니다.
+[2022.11.29-07.37.58:255][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] First Person Camera  와 연관된 프로퍼티를 찾지 못했습니다.
+[2022.11.29-07.37.58:255][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] Pawn Detected  와 연관된 프로퍼티를 찾지 못했습니다.
+[2022.11.29-07.37.58:256][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] Leftlean  와 연관된 프로퍼티를 찾지 못했습니다.
+[2022.11.29-07.37.58:256][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] Rightlean  와 연관된 프로퍼티를 찾지 못했습니다.
+[2022.11.29-07.37.58:256][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] Defalut Camera Location  와 연관된 프로퍼티를 찾지 못했습니다.
+[2022.11.29-07.37.58:256][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] Target Camera Location  와 연관된 프로퍼티를 찾지 못했습니다.
+[2022.11.29-07.37.58:256][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] Rightlean  와 연관된 프로퍼티를 찾지 못했습니다.
+[2022.11.29-07.37.58:256][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] Leftlean  와 연관된 프로퍼티를 찾지 못했습니다.
+[2022.11.29-07.37.58:257][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] Target Camera Location  와 연관된 프로퍼티를 찾지 못했습니다.
+[2022.11.29-07.37.58:257][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] First Person Camera  와 연관된 프로퍼티를 찾지 못했습니다.
+[2022.11.29-07.37.58:257][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] WD Lockon  와 연관된 프로퍼티를 찾지 못했습니다.
+[2022.11.29-07.37.58:257][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] Target Enemy Health  와 연관된 프로퍼티를 찾지 못했습니다.
+[2022.11.29-07.37.58:257][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] Current Weapon  와 연관된 프로퍼티를 찾지 못했습니다.
+[2022.11.29-07.37.58:258][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] Base Damage  와 연관된 프로퍼티를 찾지 못했습니다.
+[2022.11.29-07.37.58:258][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] Actor Detected Reference  와 연관된 프로퍼티를 찾지 못했습니다.
+[2022.11.29-07.37.58:258][590]LogBlueprint: Error: [AssetLog] /Game/FirstPerson/Blueprints/BP_Character.BP_Character (no disk path found): [Compiler] Actor Detected  와 연관된 프로퍼티를 찾지 못했습니다.
+[2022.11.29-07.37.58:267][590]LogPlayLevel: [PlayLevel] Compiling BP_WeaponBase before play...
+[2022.11.29-07.37.58:270][590]LogBlueprint: Error: [AssetLog] C:\Users\STL\Documents\WorkSpace\UE_PaintShooter\Content\FirstPerson\Blueprints\BP_WeaponBase.uasset: [Compiler] 컴파일러 오류:  FirstPersonCharacterReference 설정 에서 'DEADCLASS BP Character C 0 오브젝트 레퍼런스 타입은 오브젝트 레퍼런스 타입과 호환되지 않습니다.' 와의 연결 생성에 실패했습니다.
+[2022.11.29-07.37.58:271][590]LogBlueprint: Error: [AssetLog] C:\Users\STL\Documents\WorkSpace\UE_PaintShooter\Content\FirstPerson\Blueprints\BP_WeaponBase.uasset: [Compiler] Other Actor  및  Object  핀을 연결할 수 없습니다: 이 형변환에 유효하지 않은 타깃 타입이 있습니다 (리디렉터 없이 삭제된 클래스였을 수 있습니다).
+[2022.11.29-07.37.58:271][590]LogBlueprint: Error: [AssetLog] C:\Users\STL\Documents\WorkSpace\UE_PaintShooter\Content\FirstPerson\Blueprints\BP_WeaponBase.uasset: [Compiler] BP_WeaponBase'에서 "Equip Weapon" 라는 이름의 함수를 찾을 수 없습니다.
+ Equip Weapon 에 대해 'BP_WeaponBase' 컴파일이 되었는지 확인하세요.
+[2022.11.29-07.37.58:272][590]LogBlueprint: Error: [AssetLog] C:\Users\STL\Documents\WorkSpace\UE_PaintShooter\Content\FirstPerson\Blueprints\BP_WeaponBase.uasset: [Compiler] First Person Character Reference  및  As BP Character  핀을 연결할 수 없습니다: DEADCLASS BP Character C 0 오브젝트 레퍼런스 타입은 오브젝트 레퍼런스 타입과 호환되지 않습니다.
+[2022.11.29-07.37.58:272][590]LogBlueprint: Error: [AssetLog] C:\Users\STL\Documents\WorkSpace\UE_PaintShooter\Content\FirstPerson\Blueprints\BP_WeaponBase.uasset: [Compiler] Object  및  Other Actor  핀을 연결할 수 없습니다: 이 형변환에 유효하지 않은 타깃 타입이 있습니다 (리디렉터 없이 삭제된 클래스였을 수 있습니다).
+[2022.11.29-07.37.58:272][590]LogBlueprint: Error: [AssetLog] C:\Users\STL\Documents\WorkSpace\UE_PaintShooter\Content\FirstPerson\Blueprints\BP_WeaponBase.uasset: [Compiler] As BP Character  및  First Person Character Reference  핀을 연결할 수 없습니다: 오브젝트 레퍼런스 타입은 DEADCLASS BP Character C 0 오브젝트 레퍼런스 타입과 호환되지 않습니다.
+[2022.11.29-07.37.58:273][590]LogBlueprint: Error: [AssetLog] C:\Users\STL\Documents\WorkSpace\UE_PaintShooter\Content\FirstPerson\Blueprints\BP_WeaponBase.uasset: [Compiler] 이 블루프린트(셀프)는 ' 타깃 '에 호환되지 않으므로, 그 핀은 반드시 연결되어 있어야 합니다.
+[2022.11.29-07.37.58:273][590]LogBlueprint: Error: [AssetLog] C:\Users\STL\Documents\WorkSpace\UE_PaintShooter\Content\FirstPerson\Blueprints\BP_WeaponBase.uasset: [Compiler] First Person Character Reference  핀의 클래스는 유효하지 않습니다! 삭제되었을 수 있습니다.
+[2022.11.29-07.37.58:282][590]LogPlayLevel: [PlayLevel] Compiling WD_Lockon before play...
+[2022.11.29-07.37.58:283][590]LogBlueprint: Error: [AssetLog] C:\Users\STL\Documents\WorkSpace\UE_PaintShooter\Content\UI\WD_Lockon.uasset: [Compiler] Object  및  Return Value  핀을 연결할 수 없습니다: 이 형변환에 유효하지 않은 타깃 타입이 있습니다 (리디렉터 없이 삭제된 클래스였을 수 있습니다).
+[2022.11.29-07.37.58:283][590]LogBlueprint: Error: [AssetLog] C:\Users\STL\Documents\WorkSpace\UE_PaintShooter\Content\UI\WD_Lockon.uasset: [Compiler] Return Value  및  Object  핀을 연결할 수 없습니다: 이 형변환에 유효하지 않은 타깃 타입이 있습니다 (리디렉터 없이 삭제된 클래스였을 수 있습니다).
+[2022.11.29-07.37.58:283][590]LogBlueprint: Warning: [AssetLog] C:\Users\STL\Documents\WorkSpace\UE_PaintShooter\Content\UI\WD_Lockon.uasset: [Compiler] WD_Lockon'에서 "TargetEnemyHealth" 라는 이름의 변수를 찾을 수 없습니다.
+ TargetEnemyHealth 구하기 에 대해 'WD_Lockon' 컴파일이 되었는지 확인하세요.
+[2022.11.29-07.37.58:306][590]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.11.29-07.37.58:308][590]LogPlayLevel: PlayLevel: Blueprint regeneration took 754 ms (3 blueprints)
+[2022.11.29-07.37.58:308][590]BlueprintLog: Warning: {Name} 블루프린트 컴파일에 실패했습니다. BP_Character
+[2022.11.29-07.37.58:308][590]BlueprintLog: Warning: {Name} 블루프린트 컴파일에 실패했습니다. BP_WeaponBase
+[2022.11.29-07.37.58:308][590]BlueprintLog: Warning: {Name} 블루프린트 컴파일에 실패했습니다. WD_Lockon
+[2022.11.29-07.37.58:309][590]LogCustomDialog: Dialog displayed:
+[2022.11.29-07.38.02:464][590]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_Character.BP_Character
+[2022.11.29-07.38.02:464][590]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.29-07.38.02:817][590]LogSlate: Window '블루프린트 컴파일 오류' being destroyed
+[2022.11.29-07.38.04:479][713]LogSlate: Window '메시지 로그' being destroyed
+[2022.11.29-07.38.04:483][713]LogSlate: Window '메시지 로그' being destroyed
+[2022.11.29-07.38.08:487][134]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.11.29-07.38.08:487][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.29-07.38.14:614][818]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2022.11.29-07.38.14:620][818]LogWorldPartition: Display: GenerateStreaming started...
+[2022.11.29-07.38.14:620][818]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.11.29-07.38.14:620][818]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.29-07.38.14:620][818]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.11.29-07.38.14:620][818]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.11.29-07.38.14:620][818]LogWorldPartition: Display: GetPartitionedActors took 67 us
+[2022.11.29-07.38.14:621][818]LogWorldPartition: Display: GenerateStreaming took 437 us
+[2022.11.29-07.38.14:621][818]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.29-07.38.14:621][818]BlueprintLog: Warning: {Name} 블루프린트 컴파일에 실패했습니다. BP_Character
+[2022.11.29-07.38.14:621][818]BlueprintLog: Warning: {Name} 블루프린트 컴파일에 실패했습니다. BP_WeaponBase
+[2022.11.29-07.38.14:621][818]BlueprintLog: Warning: {Name} 블루프린트 컴파일에 실패했습니다. WD_Lockon
+[2022.11.29-07.38.14:621][818]LogCustomDialog: Dialog displayed:
+[2022.11.29-07.38.16:082][818]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_Character.BP_Character
+[2022.11.29-07.38.16:082][818]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.29-07.38.16:387][818]LogSlate: Window '블루프린트 컴파일 오류' being destroyed
+[2022.11.29-07.38.18:587][991]LogSlate: Window '메시지 로그' being destroyed
+[2022.11.29-07.38.18:590][991]LogSlate: Window '메시지 로그' being destroyed
+[2022.11.29-07.38.23:240][454]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_Enemy.BP_Enemy
+[2022.11.29-07.38.23:240][454]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.29-07.38.28:603][953]LogSlate: Window 'BP_Enemy' being destroyed
+[2022.11.29-07.38.32:715][409]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.11.29-07.38.32:715][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.29-07.38.36:498][822]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_RifleCharacter.BP_RifleCharacter
+[2022.11.29-07.38.36:499][822]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.29-07.38.39:512][101]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2022.11.29-07.38.39:519][101]LogWorldPartition: Display: GenerateStreaming started...
+[2022.11.29-07.38.39:519][101]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.11.29-07.38.39:519][101]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.29-07.38.39:519][101]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.11.29-07.38.39:519][101]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.11.29-07.38.39:519][101]LogWorldPartition: Display: GetPartitionedActors took 50 us
+[2022.11.29-07.38.39:519][101]LogWorldPartition: Display: GenerateStreaming took 337 us
+[2022.11.29-07.38.39:519][101]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.29-07.38.39:519][101]BlueprintLog: Warning: {Name} 블루프린트 컴파일에 실패했습니다. BP_Character
+[2022.11.29-07.38.39:519][101]BlueprintLog: Warning: {Name} 블루프린트 컴파일에 실패했습니다. BP_WeaponBase
+[2022.11.29-07.38.39:519][101]BlueprintLog: Warning: {Name} 블루프린트 컴파일에 실패했습니다. WD_Lockon
+[2022.11.29-07.38.39:520][101]LogCustomDialog: Dialog displayed:
+[2022.11.29-07.38.41:261][101]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_WeaponBase.BP_WeaponBase
+[2022.11.29-07.38.41:261][101]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.29-07.38.41:564][101]LogSlate: Window '블루프린트 컴파일 오류' being destroyed
+[2022.11.29-07.38.46:621][678]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WD_Lockon.WD_Lockon
+[2022.11.29-07.38.46:622][678]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.29-07.38.46:624][678]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.29-07.38.46:626][678]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+스페이스 바]
+[2022.11.29-07.38.46:919][678]LogSlateStyle: Warning: 'None' 슬레이트 위젯 스타일을 찾을 수 없습니다. 대신 FToolbarStyle 디폴트를 사용합니다.
+[2022.11.29-07.38.46:919][678]LogSlateStyle: Warning: 'None' 슬레이트 위젯 스타일을 찾을 수 없습니다. 대신 FToolbarStyle 디폴트를 사용합니다.
+[2022.11.29-07.38.47:489][692]LogSlate: Window '메시지 로그' being destroyed
+[2022.11.29-07.38.47:493][692]LogSlate: Window '메시지 로그' being destroyed
+[2022.11.29-07.38.51:250][130]LogSlateStyle: Warning: 'None' 슬레이트 위젯 스타일을 찾을 수 없습니다. 대신 FToolbarStyle 디폴트를 사용합니다.
+[2022.11.29-07.38.51:250][130]LogSlateStyle: Warning: 'None' 슬레이트 위젯 스타일을 찾을 수 없습니다. 대신 FToolbarStyle 디폴트를 사용합니다.
+[2022.11.29-07.38.51:287][130]LogSlateStyle: Warning: 'CoreStyle' 스타일의 리소스 누락: ''Foreground' 슬레이트 컬러를 찾을 수 없습니다.'
+[2022.11.29-07.39.02:569][412]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.11.29-07.39.05:080][412]LogSlate: Window 'Delete Assets' being destroyed
