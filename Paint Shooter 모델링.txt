@@ -18,3 +18,10 @@
 - 자동연사 On -> OnFireAutomaticGun -> 개별 Drain 실행
 - 자동연사 Off -> OnStopAutomaticGun -> OnRefillAmmo 실행
 
+
+
+
+데칼 지우기
+
+페인트 => BallPaintProjectile
+지우기 => Paint
