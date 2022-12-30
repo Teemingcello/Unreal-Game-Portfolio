@@ -9,3 +9,12 @@
 - 자동 연사 - OnFireAutomaticGun
 	   - OnStopAutomaticGun
 
+탄약
+시작시 -> OnRefillAmmo실행
+
+- 발사 On -> OnFireGun -> 개별 Drain 실행
+- 발사 off -> OnRefillAmmo 실행
+
+- 자동연사 On -> OnFireAutomaticGun -> 개별 Drain 실행
+- 자동연사 Off -> OnStopAutomaticGun -> OnRefillAmmo 실행
+
